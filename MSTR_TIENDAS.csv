@@ -1,0 +1,26 @@
+id_tienda,nom_tienda,tipo_tienda,id_ciudad,id_pais,metros_cuadrados,activo,fec_apertura
+1,RetailMax Monterrey 1,supermercado,5,2,351.0,1,2021-09-29
+2,RetailMax Cuenca 2,hipermercado,11,5,1419.0,1,2012-01-28
+3,RetailMax Bogotá 3,supermercado,1,1,1164.0,1,2017-09-29
+4,RetailMax Guayaquil 4,supermercado,10,5,1334.0,1,2006-09-03
+5,RetailMax Quito 5,hipermercado,9,5,3661.0,1,2010-07-01
+6,RetailMax Bogotá 6,supermercado,1,1,869.0,1,2002-02-12
+7,RetailMax Guadalajara 7,hipermercado,6,2,2731.0,1,2017-09-28
+8,RetailMax Medellín 8,supermercado,2,1,989.0,1,2022-07-01
+9,RetailMax Guadalajara 9,hipermercado,6,2,4471.0,1,2003-07-05
+10,RetailMax Lima 10,conveniencia,8,4,236.0,1,2007-11-14
+11,RetailMax Medellín 11,conveniencia,2,1,146.0,1,2009-04-09
+12,RetailMax Guadalajara 12,conveniencia,6,2,208.0,1,2018-12-12
+13,RetailMax Cuenca 13,conveniencia,11,5,61.0,1,2023-01-14
+14,RetailMax CDMX 14,supermercado,4,2,463.0,1,2008-04-02
+15,RetailMax Cuenca 15,supermercado,11,5,1228.0,1,2012-08-28
+16,RetailMax CDMX 16,hipermercado,4,2,2455.0,1,2016-03-19
+17,RetailMax Cuenca 17,conveniencia,11,5,224.0,1,2018-11-12
+18,RetailMax CDMX 18,supermercado,4,2,1393.0,1,2004-06-15
+19,RetailMax CDMX 19,supermercado,4,2,1440.0,1,2006-09-10
+20,RetailMax Bogotá 20,conveniencia,1,1,248.0,1,2004-11-06
+21,RetailMax Santiago 21,hipermercado,7,3,2292.0,1,2014-02-27
+22,RetailMax Guadalajara 22,supermercado,6,2,1461.0,1,2019-10-12
+23,RetailMax CDMX 23,['marketplace'],4,2,,1,2021-06-08
+24,RetailMax CDMX 24,['marketplace'],4,2,,1,2021-05-03
+25,RetailMax CDMX 25,['marketplace'],4,2,,1,2022-01-16

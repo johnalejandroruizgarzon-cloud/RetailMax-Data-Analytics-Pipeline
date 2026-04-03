@@ -1,0 +1,1001 @@
+id_devolucion,id_trans_origen,art_id,id_tienda,fec_devolucion,qty_devuelta,motivo_cod,canal_devolucion,estado_devolucion,vr_reembolso
+1,15796,76,20,2024-02-04,1,No cumple expectativas,Recolección Domicilio,Aprobado,51740.12
+2,861,92,5,2023-11-27,1,No cumple expectativas,Tienda Física,Aprobado,39749.69
+3,76821,34,16,2025-06-18,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,233398.64
+4,54887,7,20,2026-01-21,1,Llegó dañado por transporte,Tienda Física,Aprobado,52213.36
+5,6266,74,25,2025-11-11,2,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,227279.3
+6,82387,14,19,2024-09-04,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,114758.66
+7,37195,49,19,2023-09-26,3,Defecto de fábrica,Tienda Física,En Revisión,328645.62
+8,87499,64,21,2023-05-30,2,Defecto de fábrica,Tienda Física,Aprobado,167097.38
+9,44132,11,1,2023-09-09,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,117080.27
+10,60264,70,21,2024-11-23,1,Talla/Color incorrecto,Tienda Física,Aprobado,63000.32
+11,16024,52,6,2024-12-31,1,No cumple expectativas,Punto de Entrega/Correo,Aprobado,131017.69
+12,41091,33,25,2023-12-26,2,Talla/Color incorrecto,Tienda Física,Aprobado,355940.1
+13,67222,2,8,2026-02-05,1,Talla/Color incorrecto,Tienda Física,Aprobado,221179.24
+14,64821,99,17,2023-01-14,1,Defecto de fábrica,Tienda Física,Aprobado,95352.36
+15,770,84,21,2023-12-08,2,Talla/Color incorrecto,Tienda Física,Aprobado,24452.72
+16,59736,18,12,2025-02-14,1,Defecto de fábrica,Recolección Domicilio,Rechazado,84805.28
+17,62956,38,10,2025-09-28,1,Defecto de fábrica,Tienda Física,Rechazado,139795.1
+18,64926,47,16,2023-02-17,1,No cumple expectativas,Tienda Física,Aprobado,217083.81
+19,67970,51,1,2025-06-03,1,No cumple expectativas,Tienda Física,Aprobado,230411.03
+20,5312,25,5,2023-07-18,2,No cumple expectativas,Tienda Física,Rechazado,482991.42
+21,83105,3,23,2023-06-04,1,Talla/Color incorrecto,Punto de Entrega/Correo,Rechazado,228455.91
+22,53708,16,5,2024-09-25,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,227824.21
+23,85306,14,7,2025-06-10,1,Llegó dañado por transporte,Tienda Física,Aprobado,234310.73
+24,28694,93,8,2025-09-26,4,Talla/Color incorrecto,Recolección Domicilio,Aprobado,453007.0
+25,71933,59,23,2026-01-10,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,152456.93
+26,93017,33,17,2023-05-06,3,Defecto de fábrica,Tienda Física,En Revisión,652137.78
+27,25659,4,1,2023-07-16,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,58794.77
+28,84479,42,16,2024-12-20,1,Talla/Color incorrecto,Tienda Física,Rechazado,90019.46
+29,18432,52,13,2024-06-21,1,Talla/Color incorrecto,Tienda Física,Aprobado,204943.82
+30,2748,19,12,2024-07-28,1,Talla/Color incorrecto,Punto de Entrega/Correo,En Revisión,29222.42
+31,59151,58,25,2023-06-11,2,Talla/Color incorrecto,Tienda Física,Aprobado,312277.54
+32,65726,96,9,2024-09-17,1,No cumple expectativas,Recolección Domicilio,Aprobado,106055.68
+33,84655,10,11,2023-09-04,1,No cumple expectativas,Punto de Entrega/Correo,Aprobado,207111.61
+34,35774,48,4,2025-12-24,2,Llegó dañado por transporte,Tienda Física,Aprobado,296991.94
+35,67436,33,2,2025-11-07,1,No cumple expectativas,Punto de Entrega/Correo,Aprobado,170834.85
+36,56887,92,16,2024-01-24,1,Retraso en entrega,Tienda Física,En Revisión,17851.04
+37,66804,57,7,2023-02-01,1,Defecto de fábrica,Tienda Física,Aprobado,170391.56
+38,31552,12,9,2023-02-05,1,Defecto de fábrica,Recolección Domicilio,Rechazado,125859.77
+39,11395,58,20,2025-12-23,1,Defecto de fábrica,Punto de Entrega/Correo,En Revisión,4788.28
+40,69093,47,25,2025-10-10,10,No cumple expectativas,Tienda Física,Aprobado,851403.6
+41,3891,1,2,2023-11-01,1,Llegó dañado por transporte,Tienda Física,Aprobado,21495.78
+42,41607,34,3,2025-01-06,2,Defecto de fábrica,Recolección Domicilio,Aprobado,109236.58
+43,96277,97,10,2024-04-02,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,114721.2
+44,80039,10,18,2023-10-08,2,Defecto de fábrica,Recolección Domicilio,Aprobado,486683.42
+45,87314,22,3,2024-07-19,1,Llegó dañado por transporte,Tienda Física,Aprobado,60356.35
+46,10628,61,3,2023-05-14,1,Talla/Color incorrecto,Tienda Física,Aprobado,100532.03
+47,8793,10,3,2025-04-05,1,Defecto de fábrica,Tienda Física,Aprobado,24046.37
+48,73970,83,6,2024-04-20,2,Talla/Color incorrecto,Recolección Domicilio,Aprobado,493843.08
+49,43002,91,20,2025-05-13,1,Defecto de fábrica,Tienda Física,Aprobado,147188.91
+50,76553,73,21,2025-07-27,1,Defecto de fábrica,Tienda Física,En Revisión,21354.11
+51,23898,14,6,2024-03-09,3,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,719555.82
+52,68149,26,23,2023-10-01,2,Llegó dañado por transporte,Tienda Física,En Revisión,61493.68
+53,23484,80,5,2025-04-07,2,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,185956.64
+54,48556,16,3,2025-11-01,2,Defecto de fábrica,Recolección Domicilio,Aprobado,228960.34
+55,17160,5,21,2024-03-07,3,No cumple expectativas,Recolección Domicilio,Aprobado,254157.03
+56,80078,91,25,2025-12-06,1,No cumple expectativas,Tienda Física,Aprobado,32834.54
+57,35921,43,5,2023-09-20,1,Defecto de fábrica,Tienda Física,Aprobado,20736.43
+58,92068,87,8,2024-01-30,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,223138.37
+59,67122,12,25,2024-04-17,1,Defecto de fábrica,Recolección Domicilio,Aprobado,180378.93
+60,69480,47,2,2024-04-14,1,Defecto de fábrica,Recolección Domicilio,Aprobado,142554.84
+61,89476,15,15,2024-11-29,1,No cumple expectativas,Tienda Física,Aprobado,87852.85
+62,19458,51,3,2023-09-24,1,Defecto de fábrica,Recolección Domicilio,Aprobado,165060.62
+63,66558,98,10,2024-07-30,3,Talla/Color incorrecto,Recolección Domicilio,Aprobado,405195.6
+64,77190,79,9,2023-01-11,3,No cumple expectativas,Recolección Domicilio,Aprobado,687391.35
+65,78954,12,17,2024-08-08,1,Defecto de fábrica,Recolección Domicilio,Aprobado,105581.37
+66,52996,42,23,2024-03-03,4,Talla/Color incorrecto,Recolección Domicilio,Aprobado,266352.44
+67,40758,33,3,2024-09-23,1,Defecto de fábrica,Recolección Domicilio,Aprobado,145792.99
+68,9693,80,23,2023-05-23,2,Retraso en entrega,Tienda Física,Rechazado,402283.1
+69,45759,38,10,2024-05-22,3,Talla/Color incorrecto,Tienda Física,Aprobado,170839.11
+70,72410,25,5,2025-05-23,1,Llegó dañado por transporte,Tienda Física,Aprobado,219815.33
+71,71212,18,5,2025-10-21,1,Talla/Color incorrecto,Tienda Física,Aprobado,140101.56
+72,65698,12,25,2024-07-23,3,Defecto de fábrica,Tienda Física,Aprobado,660445.89
+73,37066,44,23,2025-03-12,1,No cumple expectativas,Tienda Física,Aprobado,15568.79
+74,92094,8,23,2024-09-27,1,Retraso en entrega,Tienda Física,Aprobado,117644.49
+75,99300,73,3,2023-03-22,1,No cumple expectativas,Tienda Física,Aprobado,32480.28
+76,32607,10,20,2025-05-23,3,Llegó dañado por transporte,Recolección Domicilio,Aprobado,135708.69
+77,11535,82,14,2023-08-18,1,Llegó dañado por transporte,Punto de Entrega/Correo,Aprobado,2725.97
+78,94664,44,21,2024-05-22,1,Defecto de fábrica,Tienda Física,Aprobado,84232.72
+79,40398,31,23,2023-03-16,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,24591.65
+80,91388,52,19,2023-02-28,1,No cumple expectativas,Tienda Física,Aprobado,95652.86
+81,1017,63,16,2026-03-03,2,Talla/Color incorrecto,Tienda Física,Aprobado,492106.34
+82,89790,33,10,2024-09-28,1,Llegó dañado por transporte,Tienda Física,Aprobado,159759.78
+83,55592,83,25,2023-12-12,1,Llegó dañado por transporte,Tienda Física,Aprobado,121975.29
+84,89813,40,2,2023-07-29,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,212329.07
+85,23248,50,23,2023-08-05,1,Defecto de fábrica,Recolección Domicilio,Aprobado,62092.11
+86,24301,28,23,2025-12-10,1,No cumple expectativas,Tienda Física,Aprobado,7288.12
+87,74066,29,14,2023-10-26,1,Defecto de fábrica,Tienda Física,Aprobado,217557.31
+88,82799,79,23,2023-05-18,1,Llegó dañado por transporte,Tienda Física,Aprobado,86870.08
+89,9269,87,8,2024-02-02,2,Talla/Color incorrecto,Tienda Física,Aprobado,41123.4
+90,86808,1,25,2025-09-03,1,No cumple expectativas,Tienda Física,Aprobado,215814.31
+91,12186,9,11,2025-11-20,1,Defecto de fábrica,Tienda Física,Aprobado,73188.76
+92,63705,13,25,2023-05-02,2,No cumple expectativas,Recolección Domicilio,Aprobado,337624.9
+93,86780,8,23,2025-04-14,1,Talla/Color incorrecto,Punto de Entrega/Correo,Rechazado,57582.64
+94,39100,27,25,2025-02-21,1,Talla/Color incorrecto,Tienda Física,Aprobado,166428.5
+95,8572,86,19,2023-01-13,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,153865.43
+96,38045,22,25,2025-07-09,1,No cumple expectativas,Tienda Física,Aprobado,204661.5
+97,51215,78,10,2023-10-27,1,Llegó dañado por transporte,Tienda Física,En Revisión,32636.71
+98,61229,77,15,2024-05-17,2,Defecto de fábrica,Tienda Física,Rechazado,42351.38
+99,48985,30,14,2025-12-13,2,Defecto de fábrica,Recolección Domicilio,Aprobado,393869.44
+100,40775,34,18,2024-05-20,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,166876.84
+101,2569,46,13,2024-04-10,1,No cumple expectativas,Recolección Domicilio,Aprobado,212957.46
+102,62593,85,11,2024-06-21,4,No cumple expectativas,Tienda Física,Aprobado,677029.4
+103,67564,43,25,2026-03-01,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,64940.68
+104,2696,22,2,2026-01-19,1,Defecto de fábrica,Tienda Física,Aprobado,23502.78
+105,48191,12,6,2024-11-30,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,25788.4
+106,5259,74,13,2026-01-03,1,Talla/Color incorrecto,Tienda Física,Aprobado,9888.2
+107,87539,83,5,2023-12-27,1,Talla/Color incorrecto,Tienda Física,Rechazado,104820.75
+108,39505,39,13,2025-06-28,1,Retraso en entrega,Tienda Física,Aprobado,237214.34
+109,33160,6,14,2023-08-17,1,Defecto de fábrica,Recolección Domicilio,Aprobado,120227.06
+110,13987,25,16,2023-12-04,1,No cumple expectativas,Tienda Física,Aprobado,198523.08
+111,61859,22,14,2024-03-03,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,147341.09
+112,12667,66,9,2024-12-20,1,Talla/Color incorrecto,Tienda Física,Aprobado,94883.21
+113,38661,90,25,2023-12-15,5,No cumple expectativas,Recolección Domicilio,Aprobado,772887.6
+114,3562,8,25,2024-12-31,1,No cumple expectativas,Recolección Domicilio,En Revisión,20022.51
+115,26855,74,12,2023-07-11,1,Producto erróneo,Recolección Domicilio,Aprobado,163099.63
+116,64506,47,5,2025-05-25,1,Defecto de fábrica,Tienda Física,Aprobado,219268.25
+117,52252,39,21,2025-08-17,1,Defecto de fábrica,Tienda Física,Aprobado,173255.18
+118,22663,90,14,2023-03-27,1,No cumple expectativas,Tienda Física,Aprobado,145233.16
+119,8393,12,25,2024-04-02,2,Talla/Color incorrecto,Recolección Domicilio,Aprobado,457909.92
+120,30536,14,25,2025-06-10,1,Defecto de fábrica,Tienda Física,Aprobado,173532.8
+121,78604,98,16,2023-05-01,1,Defecto de fábrica,Tienda Física,Aprobado,8305.66
+122,52257,22,9,2023-03-25,2,Defecto de fábrica,Tienda Física,Aprobado,76216.94
+123,89136,77,6,2024-02-26,1,Llegó dañado por transporte,Tienda Física,Aprobado,41642.56
+124,35223,97,16,2024-05-03,1,Defecto de fábrica,Recolección Domicilio,Aprobado,113833.77
+125,77374,32,4,2023-05-05,1,Defecto de fábrica,Tienda Física,Aprobado,212349.06
+126,79576,40,5,2023-04-08,2,Defecto de fábrica,Recolección Domicilio,Aprobado,290486.68
+127,96355,92,25,2024-06-19,1,Talla/Color incorrecto,Tienda Física,Aprobado,33070.02
+128,84652,80,25,2024-02-12,1,Defecto de fábrica,Tienda Física,Aprobado,102624.04
+129,63336,40,4,2025-07-24,1,Talla/Color incorrecto,Tienda Física,Aprobado,24072.79
+130,10966,18,23,2023-09-16,3,Defecto de fábrica,Tienda Física,Aprobado,289937.31
+131,24539,45,14,2024-03-06,3,Llegó dañado por transporte,Tienda Física,Aprobado,222086.64
+132,70593,7,20,2025-12-04,1,Defecto de fábrica,Recolección Domicilio,En Revisión,73659.51
+133,98019,10,16,2023-02-02,1,Talla/Color incorrecto,Tienda Física,En Revisión,170773.31
+134,8111,79,23,2023-10-30,2,Llegó dañado por transporte,Recolección Domicilio,Aprobado,434557.2
+135,79310,90,4,2025-05-24,2,No cumple expectativas,Tienda Física,Aprobado,391593.04
+136,27267,55,25,2025-02-05,1,Talla/Color incorrecto,Tienda Física,Aprobado,154624.55
+137,52993,11,1,2023-06-30,1,Defecto de fábrica,Recolección Domicilio,Aprobado,245670.46
+138,82949,2,4,2025-01-22,4,Defecto de fábrica,Tienda Física,Aprobado,989403.8
+139,98807,5,23,2023-08-15,1,No cumple expectativas,Tienda Física,Aprobado,60769.27
+140,6911,22,23,2024-05-13,2,Producto erróneo,Tienda Física,Aprobado,162645.94
+141,90983,75,6,2024-08-08,1,No cumple expectativas,Tienda Física,Aprobado,107379.0
+142,207,57,23,2025-09-05,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,79887.32
+143,87055,13,17,2024-07-27,1,No cumple expectativas,Tienda Física,Aprobado,63648.02
+144,87898,29,15,2024-12-19,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,44011.21
+145,23420,50,18,2026-03-13,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,145187.53
+146,50637,52,18,2024-05-08,1,Talla/Color incorrecto,Tienda Física,Aprobado,177344.99
+147,50016,33,20,2025-04-13,1,Retraso en entrega,Punto de Entrega/Correo,Rechazado,193175.65
+148,54269,34,20,2025-01-01,3,Defecto de fábrica,Tienda Física,Aprobado,57468.69
+149,87940,66,19,2023-07-29,1,No cumple expectativas,Punto de Entrega/Correo,Aprobado,231392.25
+150,18142,48,6,2024-05-12,1,Defecto de fábrica,Tienda Física,Aprobado,233058.0
+151,80357,82,14,2023-10-31,1,Talla/Color incorrecto,Recolección Domicilio,Rechazado,156934.75
+152,71911,97,18,2023-10-24,1,Defecto de fábrica,Tienda Física,Aprobado,213003.14
+153,56045,21,1,2024-04-10,1,Talla/Color incorrecto,Tienda Física,Aprobado,14192.41
+154,67215,28,4,2023-11-20,4,No cumple expectativas,Recolección Domicilio,Aprobado,939734.84
+155,33828,33,15,2024-06-11,1,Defecto de fábrica,Recolección Domicilio,Aprobado,164699.39
+156,55821,33,2,2030-01-09,4,No cumple expectativas,Tienda Física,Aprobado,562726.72
+157,62624,95,4,2023-09-05,2,No cumple expectativas,Tienda Física,Aprobado,88244.56
+158,81735,55,19,2023-10-21,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,61043.66
+159,75451,42,23,2025-11-24,1,Defecto de fábrica,Recolección Domicilio,Aprobado,167169.63
+160,93427,60,12,2024-01-27,1,Talla/Color incorrecto,Punto de Entrega/Correo,En Revisión,193198.08
+161,22300,18,25,2023-04-22,1,Defecto de fábrica,Recolección Domicilio,Aprobado,29242.99
+162,43586,36,16,2024-03-21,1,Producto erróneo,Punto de Entrega/Correo,Aprobado,188702.02
+163,64045,50,21,2024-06-10,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,172256.52
+164,42558,87,10,2025-02-21,1,Talla/Color incorrecto,Tienda Física,Aprobado,87642.38
+165,49081,9,18,2026-03-01,1,Llegó dañado por transporte,Tienda Física,En Revisión,96280.55
+166,2694,40,9,2024-04-20,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,78490.15
+167,95004,34,25,2025-09-24,1,No cumple expectativas,Recolección Domicilio,Aprobado,145481.55
+168,95260,38,12,2026-03-15,1,Defecto de fábrica,Tienda Física,Aprobado,202732.5
+169,69164,93,25,2025-05-13,2,No cumple expectativas,Tienda Física,Aprobado,340546.74
+170,25940,7,15,2025-06-20,4,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,848512.64
+171,48926,1,8,2024-11-04,2,Llegó dañado por transporte,Tienda Física,Aprobado,176272.78
+172,42942,88,13,2025-12-14,1,No cumple expectativas,Tienda Física,Aprobado,241211.78
+173,21835,98,12,2023-04-29,1,No cumple expectativas,Tienda Física,En Revisión,154219.38
+174,18048,33,3,2024-01-10,1,Defecto de fábrica,Tienda Física,Aprobado,216774.84
+175,26106,57,25,2023-05-09,1,Defecto de fábrica,Tienda Física,Aprobado,28595.91
+176,75767,30,25,2025-12-01,2,Defecto de fábrica,Tienda Física,Aprobado,311211.86
+177,15708,41,19,2026-01-15,1,Talla/Color incorrecto,Tienda Física,Aprobado,246175.36
+178,21977,27,17,2023-12-02,1,Defecto de fábrica,Recolección Domicilio,Aprobado,116617.6
+179,44263,82,12,2024-03-25,1,Llegó dañado por transporte,Tienda Física,Aprobado,238396.49
+180,23777,44,2,2026-04-06,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,240934.67
+181,30081,80,15,2023-02-04,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,90271.06
+182,66843,79,5,2025-07-17,1,Talla/Color incorrecto,Tienda Física,Aprobado,65420.51
+183,61374,11,7,2023-07-28,1,Talla/Color incorrecto,Recolección Domicilio,En Revisión,4724.19
+184,6777,31,18,2025-04-24,1,No cumple expectativas,Tienda Física,Aprobado,66587.53
+185,92788,22,6,2024-04-14,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,106598.09
+186,55017,2,3,2025-08-20,1,Llegó dañado por transporte,Tienda Física,Aprobado,11956.73
+187,9475,40,7,2023-01-28,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,22136.6
+188,58054,75,25,2025-12-05,1,Producto erróneo,Recolección Domicilio,Aprobado,89899.01
+189,21960,99,17,2024-06-19,2,Llegó dañado por transporte,Tienda Física,Aprobado,70433.02
+190,5531,11,11,2025-08-24,1,Defecto de fábrica,Tienda Física,Aprobado,22618.25
+191,94857,69,19,2025-01-20,2,Llegó dañado por transporte,Recolección Domicilio,Aprobado,207572.7
+192,3749,97,23,2025-05-24,4,Defecto de fábrica,Recolección Domicilio,Aprobado,173992.16
+193,97505,55,23,2024-09-02,1,Llegó dañado por transporte,Tienda Física,Aprobado,155684.86
+194,98099,14,25,2025-08-05,2,Talla/Color incorrecto,Recolección Domicilio,Aprobado,235624.82
+195,13546,68,16,2025-06-15,3,Llegó dañado por transporte,Tienda Física,Aprobado,119114.85
+196,66200,25,23,2023-02-16,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,71073.09
+197,34767,62,23,2025-12-21,2,Llegó dañado por transporte,Tienda Física,Aprobado,68751.46
+198,73531,88,21,2024-02-17,1,No cumple expectativas,Punto de Entrega/Correo,Aprobado,114613.74
+199,93558,20,12,2024-09-12,1,Defecto de fábrica,Tienda Física,Aprobado,107008.46
+200,61088,73,15,2024-12-11,1,Defecto de fábrica,Tienda Física,Aprobado,167429.88
+201,95840,70,11,2024-03-03,1,Talla/Color incorrecto,Tienda Física,Aprobado,101461.0
+202,68841,46,5,2023-12-16,1,Defecto de fábrica,Tienda Física,Aprobado,238310.41
+203,54385,81,4,2024-12-20,3,No cumple expectativas,Tienda Física,Aprobado,312538.17
+204,51006,27,15,2024-04-07,3,Defecto de fábrica,Tienda Física,Aprobado,626180.07
+205,46577,74,25,2023-07-29,1,Retraso en entrega,Recolección Domicilio,Aprobado,25858.01
+206,39354,17,18,2025-01-31,1,No cumple expectativas,Tienda Física,Aprobado,216265.1
+207,62004,41,13,2025-10-18,2,Llegó dañado por transporte,Tienda Física,Aprobado,345594.44
+208,83212,85,12,2023-08-01,2,Defecto de fábrica,Tienda Física,Aprobado,416914.82
+209,52734,79,2,2024-10-20,1,Llegó dañado por transporte,Tienda Física,Aprobado,125052.87
+210,65319,52,9,2023-07-21,4,Llegó dañado por transporte,Tienda Física,En Revisión,531767.88
+211,89475,31,21,2025-06-29,3,Talla/Color incorrecto,Tienda Física,Aprobado,208829.55
+212,23665,13,6,2023-04-02,3,No cumple expectativas,Tienda Física,Aprobado,709212.24
+213,67173,50,25,2023-08-25,1,No cumple expectativas,Tienda Física,Aprobado,29447.46
+214,85617,32,5,2025-06-17,1,Defecto de fábrica,Tienda Física,Aprobado,202436.03
+215,93265,99,21,2024-08-25,1,Talla/Color incorrecto,Tienda Física,Aprobado,221191.0
+216,26737,57,23,2024-10-19,2,Talla/Color incorrecto,Tienda Física,Aprobado,348528.76
+217,94210,25,25,2026-01-23,1,Defecto de fábrica,Tienda Física,Aprobado,83869.44
+218,855,58,12,2025-01-14,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,173745.83
+219,90085,6,20,2026-02-07,2,Defecto de fábrica,Tienda Física,Aprobado,303123.9
+220,38624,64,25,2024-01-25,1,Defecto de fábrica,Recolección Domicilio,En Revisión,77620.38
+221,7393,64,18,2024-10-18,1,Defecto de fábrica,Tienda Física,Aprobado,157057.45
+222,55681,20,13,2024-04-01,1,Retraso en entrega,Recolección Domicilio,En Revisión,146388.33
+223,46718,67,12,2025-12-01,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,139619.09
+224,87093,76,2,2024-11-10,2,Retraso en entrega,Tienda Física,Aprobado,242806.06
+225,50860,87,15,2023-03-28,2,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,168569.48
+226,26310,84,18,2024-05-04,1,Defecto de fábrica,Tienda Física,Aprobado,229042.49
+227,87456,42,25,2023-03-28,2,Talla/Color incorrecto,Tienda Física,Aprobado,269113.42
+228,63735,11,16,2024-11-05,3,Talla/Color incorrecto,Recolección Domicilio,En Revisión,403849.74
+229,70468,23,14,2024-05-30,4,Defecto de fábrica,Recolección Domicilio,Rechazado,283670.52
+230,52663,14,9,2026-02-25,1,No cumple expectativas,Tienda Física,Aprobado,13578.38
+231,98507,50,23,2024-03-15,2,Defecto de fábrica,Tienda Física,Aprobado,457773.66
+232,12689,94,16,2025-11-27,3,No cumple expectativas,Tienda Física,Aprobado,340921.44
+233,25343,21,23,2023-10-11,1,No cumple expectativas,Tienda Física,En Revisión,179415.63
+234,37158,64,3,2025-11-17,2,Defecto de fábrica,Recolección Domicilio,Aprobado,378385.24
+235,67864,65,15,2024-11-01,1,Defecto de fábrica,Tienda Física,Aprobado,228128.18
+236,52084,36,16,2030-01-04,2,No cumple expectativas,Tienda Física,Aprobado,499961.66
+237,65734,38,25,2026-02-25,1,Talla/Color incorrecto,Tienda Física,Aprobado,165477.64
+238,89046,38,23,2023-03-17,1,Defecto de fábrica,Tienda Física,En Revisión,157393.72
+239,34699,49,3,2023-11-22,2,Producto erróneo,Tienda Física,Aprobado,175722.32
+240,80624,51,13,2023-09-28,1,Defecto de fábrica,Recolección Domicilio,Aprobado,23017.19
+241,22672,9,21,2024-08-15,1,No cumple expectativas,Punto de Entrega/Correo,Aprobado,151924.32
+242,25185,37,7,2023-10-18,1,Retraso en entrega,Recolección Domicilio,Aprobado,102810.54
+243,93385,17,23,2024-09-25,2,Defecto de fábrica,Tienda Física,Aprobado,121433.82
+244,42108,11,23,2026-04-01,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,228016.32
+245,86203,84,25,2023-12-23,1,Defecto de fábrica,Recolección Domicilio,Aprobado,62655.73
+246,51664,48,25,2024-07-09,1,Defecto de fábrica,Recolección Domicilio,En Revisión,205498.63
+247,15709,2,19,2025-07-10,1,Defecto de fábrica,Tienda Física,Aprobado,98776.32
+248,91907,89,19,2025-03-26,2,No cumple expectativas,Tienda Física,Aprobado,325498.5
+249,49812,6,10,2024-02-14,1,Defecto de fábrica,Tienda Física,En Revisión,197890.25
+250,2812,12,21,2025-01-10,1,Talla/Color incorrecto,Tienda Física,Aprobado,95223.21
+251,56251,23,6,2025-02-14,2,Producto erróneo,Tienda Física,Aprobado,389582.96
+252,72083,32,23,2025-07-29,1,Llegó dañado por transporte,Tienda Física,Aprobado,186179.26
+253,34755,48,14,2023-10-18,2,No cumple expectativas,Tienda Física,Aprobado,247334.86
+254,95743,84,23,2024-10-10,1,Defecto de fábrica,Recolección Domicilio,Aprobado,248359.1
+255,11412,11,9,2030-01-15,1,No cumple expectativas,Tienda Física,En Revisión,108278.23
+256,2912,2,11,2026-03-07,2,Talla/Color incorrecto,Tienda Física,Aprobado,245629.82
+257,67271,48,19,2023-05-13,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,172101.12
+258,83764,74,3,2024-11-13,2,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,207757.4
+259,8681,12,4,2023-03-17,2,Llegó dañado por transporte,Recolección Domicilio,Aprobado,68163.84
+260,84897,51,18,2023-06-10,3,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,659005.56
+261,83880,24,23,2023-07-16,1,Defecto de fábrica,Tienda Física,Aprobado,147371.15
+262,71296,95,21,2023-01-04,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,97271.97
+263,88615,27,16,2025-08-24,1,Talla/Color incorrecto,Tienda Física,Aprobado,24241.92
+264,11112,51,14,2024-08-06,1,Llegó dañado por transporte,Tienda Física,En Revisión,13645.52
+265,37505,26,25,2024-07-15,1,No cumple expectativas,Tienda Física,Aprobado,56853.29
+266,1803,26,12,2025-09-30,1,No cumple expectativas,Tienda Física,Aprobado,219508.7
+267,8156,31,15,2024-05-31,1,Defecto de fábrica,Tienda Física,Aprobado,185571.9
+268,73657,89,12,2023-01-16,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,227621.18
+269,39385,71,9,2025-06-04,2,Talla/Color incorrecto,Recolección Domicilio,Aprobado,390933.54
+270,47255,63,14,2023-12-08,1,Defecto de fábrica,Tienda Física,Aprobado,36364.97
+271,21919,27,7,2023-01-28,1,Defecto de fábrica,Tienda Física,Aprobado,21468.85
+272,85982,83,13,2023-09-25,2,No cumple expectativas,Recolección Domicilio,Aprobado,70739.7
+273,60714,85,5,2024-06-21,2,Defecto de fábrica,Recolección Domicilio,Rechazado,477725.24
+274,30307,86,12,2025-07-19,1,Talla/Color incorrecto,Tienda Física,Rechazado,156576.03
+275,16647,49,14,2024-01-02,1,Defecto de fábrica,Recolección Domicilio,En Revisión,110550.73
+276,46844,68,11,2024-01-15,1,Defecto de fábrica,Tienda Física,Aprobado,148910.82
+277,96602,8,17,2025-06-08,2,Defecto de fábrica,Tienda Física,Aprobado,188823.02
+278,90736,3,17,2023-04-11,2,Retraso en entrega,Punto de Entrega/Correo,Aprobado,364107.04
+279,16372,25,14,2023-09-05,2,Llegó dañado por transporte,Tienda Física,Aprobado,79891.62
+280,77372,47,25,2023-06-14,1,Retraso en entrega,Tienda Física,Aprobado,146131.54
+281,2050,70,23,2023-10-28,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,72031.63
+282,31617,24,14,2025-03-26,1,Defecto de fábrica,Recolección Domicilio,Aprobado,4225.01
+283,20933,18,25,2024-01-10,1,Talla/Color incorrecto,Tienda Física,Aprobado,79554.47
+284,29856,41,25,2023-10-22,1,Talla/Color incorrecto,Tienda Física,Aprobado,60909.58
+285,61435,22,18,2025-07-10,1,Llegó dañado por transporte,Tienda Física,Aprobado,91131.31
+286,72695,35,23,2024-05-31,2,Defecto de fábrica,Recolección Domicilio,Aprobado,386012.6
+287,43017,88,19,2024-08-28,2,Talla/Color incorrecto,Tienda Física,Aprobado,407950.66
+288,7401,61,18,2023-12-25,1,Defecto de fábrica,Tienda Física,Aprobado,107309.45
+289,42643,66,25,2023-06-16,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,16216.03
+290,15152,35,14,2023-12-08,1,No cumple expectativas,Tienda Física,Aprobado,2138.22
+291,51408,37,20,2023-09-12,1,Talla/Color incorrecto,Tienda Física,Aprobado,75361.6
+292,66691,82,23,2024-01-13,1,Talla/Color incorrecto,Tienda Física,Aprobado,161543.74
+293,4500,99,14,2023-10-28,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,223794.62
+294,6296,97,14,2023-01-18,4,Talla/Color incorrecto,Tienda Física,Aprobado,9008.48
+295,59041,88,10,2025-07-04,1,No cumple expectativas,Tienda Física,En Revisión,32670.78
+296,12184,58,3,2025-01-29,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,176140.93
+297,29300,3,5,2023-04-07,1,Retraso en entrega,Tienda Física,Aprobado,214391.56
+298,12875,5,2,2025-05-25,2,No cumple expectativas,Tienda Física,Aprobado,402366.44
+299,32712,20,17,2025-09-07,1,Defecto de fábrica,Tienda Física,En Revisión,248385.47
+300,5540,4,25,2023-09-09,2,No cumple expectativas,Tienda Física,Aprobado,371887.82
+301,53352,35,10,2023-12-21,1,Talla/Color incorrecto,Tienda Física,Aprobado,70996.29
+302,61268,92,21,2025-04-23,1,Defecto de fábrica,Tienda Física,Aprobado,229211.19
+303,48355,36,25,2025-12-21,2,Llegó dañado por transporte,Tienda Física,Rechazado,109839.14
+304,2558,81,6,2023-06-18,1,Defecto de fábrica,Tienda Física,Aprobado,217266.64
+305,38361,30,19,2026-01-27,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,216050.42
+306,82019,43,21,2025-10-05,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,216613.77
+307,2201,16,5,2024-05-03,1,No cumple expectativas,Recolección Domicilio,Aprobado,219851.35
+308,68498,13,4,2025-08-13,1,No cumple expectativas,Punto de Entrega/Correo,Aprobado,120714.64
+309,46976,42,20,2024-05-08,1,Llegó dañado por transporte,Tienda Física,Aprobado,229016.52
+310,21358,53,19,2024-07-28,1,No cumple expectativas,Punto de Entrega/Correo,Aprobado,236174.24
+311,77506,6,11,2023-08-13,1,No cumple expectativas,Tienda Física,Aprobado,105678.55
+312,2870,10,18,2023-02-04,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,30591.09
+313,61136,73,16,2023-02-27,4,Talla/Color incorrecto,Punto de Entrega/Correo,En Revisión,723133.64
+314,50109,50,23,2025-06-01,9,Defecto de fábrica,Recolección Domicilio,Aprobado,551229.93
+315,94180,50,14,2024-11-18,2,No cumple expectativas,Punto de Entrega/Correo,Aprobado,443408.22
+316,90273,14,6,2023-01-11,1,Talla/Color incorrecto,Tienda Física,Aprobado,166835.39
+317,38468,24,16,2024-03-19,1,No cumple expectativas,Tienda Física,Aprobado,157236.79
+318,23329,100,25,2025-10-31,2,Defecto de fábrica,Tienda Física,Aprobado,373938.92
+319,91413,49,10,2023-07-02,1,Defecto de fábrica,Tienda Física,Aprobado,221429.69
+320,86832,34,25,2024-02-21,1,No cumple expectativas,Tienda Física,Aprobado,211710.56
+321,3988,72,11,2025-04-28,1,Defecto de fábrica,Recolección Domicilio,Aprobado,111373.36
+322,58872,78,23,2025-04-14,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,226796.85
+323,22400,23,17,2025-01-22,1,Defecto de fábrica,Tienda Física,Aprobado,218762.4
+324,46215,77,1,2023-07-13,3,Retraso en entrega,Recolección Domicilio,Aprobado,712151.28
+325,99523,97,5,2025-05-24,2,No cumple expectativas,Punto de Entrega/Correo,En Revisión,48762.92
+326,86417,10,13,2023-10-21,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,227333.57
+327,70272,4,16,2024-08-30,1,Defecto de fábrica,Punto de Entrega/Correo,En Revisión,192046.7
+328,44065,6,12,2026-02-17,2,Defecto de fábrica,Tienda Física,Aprobado,385825.7
+329,70092,48,10,2023-04-22,1,No cumple expectativas,Punto de Entrega/Correo,En Revisión,81558.9
+330,40819,37,2,2024-08-28,1,No cumple expectativas,Recolección Domicilio,Aprobado,103288.71
+331,45526,2,12,2025-08-10,1,Defecto de fábrica,Tienda Física,Aprobado,157206.61
+332,19831,51,25,2023-12-07,1,Defecto de fábrica,Tienda Física,Aprobado,76490.3
+333,17430,26,1,2025-11-17,1,Defecto de fábrica,Recolección Domicilio,Aprobado,224527.44
+334,6894,42,25,2023-11-15,1,No cumple expectativas,Tienda Física,Aprobado,133791.91
+335,79910,59,25,2024-07-07,1,No cumple expectativas,Recolección Domicilio,Aprobado,158310.64
+336,47334,19,19,2023-02-23,1,Defecto de fábrica,Recolección Domicilio,Aprobado,172259.29
+337,3437,59,10,2024-10-05,1,Defecto de fábrica,Tienda Física,Aprobado,53530.96
+338,74291,13,23,2025-03-18,2,Defecto de fábrica,Tienda Física,Aprobado,131140.1
+339,76214,70,23,2025-08-08,8,Retraso en entrega,Recolección Domicilio,Aprobado,617305.68
+340,5896,66,5,2026-03-01,1,Defecto de fábrica,Tienda Física,Aprobado,17571.69
+341,19739,90,21,2024-07-01,2,No cumple expectativas,Tienda Física,Aprobado,274963.26
+342,30747,95,2,2024-02-01,1,No cumple expectativas,Tienda Física,Aprobado,141200.52
+343,49378,27,1,2023-04-26,2,Talla/Color incorrecto,Tienda Física,Aprobado,371710.02
+344,48405,99,19,2023-06-13,4,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,856121.2
+345,54046,67,5,2025-01-09,1,Defecto de fábrica,Tienda Física,Aprobado,107455.37
+346,97889,47,12,2023-08-27,1,No cumple expectativas,Recolección Domicilio,Aprobado,209222.51
+347,39791,38,25,2025-01-08,2,No cumple expectativas,Tienda Física,Aprobado,28702.32
+348,5601,66,23,2025-07-06,1,No cumple expectativas,Tienda Física,Aprobado,195442.34
+349,94661,85,16,2023-09-05,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,158530.28
+350,93180,11,23,2023-07-29,1,Defecto de fábrica,Recolección Domicilio,Aprobado,80027.37
+351,40765,16,8,2024-03-18,1,Retraso en entrega,Tienda Física,Aprobado,110481.4
+352,74544,7,7,2024-12-22,1,No cumple expectativas,Tienda Física,Aprobado,222414.4
+353,45715,80,12,2023-05-06,1,Defecto de fábrica,Tienda Física,Aprobado,104333.41
+354,56836,62,11,2026-01-01,1,Retraso en entrega,Tienda Física,Aprobado,151711.88
+355,73745,35,9,2024-07-08,1,No cumple expectativas,Recolección Domicilio,Aprobado,229731.0
+356,56492,21,9,2023-08-27,2,Talla/Color incorrecto,Tienda Física,Aprobado,332361.22
+357,18590,80,6,2025-09-19,1,No cumple expectativas,Tienda Física,Aprobado,49047.35
+358,43485,14,20,2024-12-30,1,Llegó dañado por transporte,Tienda Física,Aprobado,64648.46
+359,82990,49,10,2024-06-28,1,No cumple expectativas,Punto de Entrega/Correo,Aprobado,144043.19
+360,36213,30,23,2025-12-11,1,Defecto de fábrica,Punto de Entrega/Correo,En Revisión,128965.71
+361,43526,80,20,2024-12-09,1,Defecto de fábrica,Tienda Física,Aprobado,90935.67
+362,47203,91,25,2023-10-04,2,Llegó dañado por transporte,Recolección Domicilio,En Revisión,24078.14
+363,32636,59,4,2025-09-09,2,Defecto de fábrica,Tienda Física,Aprobado,172339.96
+364,63209,79,12,2025-10-20,1,Talla/Color incorrecto,Tienda Física,Aprobado,205716.66
+365,33829,20,21,2024-05-09,2,Talla/Color incorrecto,Recolección Domicilio,Aprobado,119546.06
+366,18712,48,21,2025-08-22,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,134693.59
+367,3421,67,25,2024-05-06,2,No cumple expectativas,Punto de Entrega/Correo,Aprobado,98220.2
+368,96753,68,19,2025-01-08,3,Llegó dañado por transporte,Tienda Física,Aprobado,135706.98
+369,302,14,17,2024-06-24,2,Defecto de fábrica,Tienda Física,Aprobado,108908.82
+370,45237,79,8,2023-12-16,2,Defecto de fábrica,Recolección Domicilio,En Revisión,170471.74
+371,66236,1,3,2025-11-27,1,Defecto de fábrica,Tienda Física,Aprobado,213245.75
+372,54241,1,11,2024-05-14,2,Llegó dañado por transporte,Tienda Física,Aprobado,176039.42
+373,65727,35,25,2025-01-31,2,No cumple expectativas,Tienda Física,Aprobado,238785.16
+374,10493,44,10,2025-05-02,3,Defecto de fábrica,Recolección Domicilio,Aprobado,364805.43
+375,6103,36,16,2024-09-13,2,Llegó dañado por transporte,Tienda Física,Aprobado,441367.1
+376,50337,1,5,2023-03-16,2,Llegó dañado por transporte,Tienda Física,Aprobado,86004.74
+377,85315,23,6,2025-07-26,1,Llegó dañado por transporte,Punto de Entrega/Correo,En Revisión,160366.46
+378,26642,16,3,2023-12-20,1,Llegó dañado por transporte,Tienda Física,Aprobado,143832.27
+379,34585,75,13,2025-10-26,1,Defecto de fábrica,Tienda Física,Aprobado,202163.42
+380,32746,13,2,2023-07-04,1,No cumple expectativas,Tienda Física,Aprobado,76043.26
+381,23094,82,25,2025-01-16,1,Talla/Color incorrecto,Tienda Física,Aprobado,57981.9
+382,66106,60,25,2023-09-30,2,Llegó dañado por transporte,Tienda Física,Aprobado,251916.48
+383,51886,26,11,2023-03-12,1,No cumple expectativas,Tienda Física,Aprobado,80373.64
+384,36632,74,23,2025-10-25,4,No cumple expectativas,Punto de Entrega/Correo,Aprobado,705993.96
+385,72992,42,12,2024-08-20,1,No cumple expectativas,Tienda Física,Aprobado,203841.22
+386,4015,89,25,2024-12-07,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,125289.95
+387,11094,39,23,2025-11-29,1,Talla/Color incorrecto,Tienda Física,Aprobado,46772.28
+388,18071,42,25,2023-03-04,1,Retraso en entrega,Tienda Física,Aprobado,196323.92
+389,35778,3,21,2024-10-13,1,Llegó dañado por transporte,Tienda Física,Aprobado,64967.72
+390,56959,41,25,2023-12-23,1,Defecto de fábrica,Tienda Física,Aprobado,149418.1
+391,82075,41,23,2024-07-31,3,Defecto de fábrica,Recolección Domicilio,Aprobado,645534.24
+392,10730,5,25,2025-11-07,1,Defecto de fábrica,Tienda Física,Aprobado,34336.92
+393,99714,40,23,2024-11-28,1,No cumple expectativas,Tienda Física,Aprobado,236163.48
+394,45018,27,18,2023-10-07,2,Llegó dañado por transporte,Punto de Entrega/Correo,Aprobado,65115.34
+395,66321,89,7,2025-07-27,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,206681.16
+396,27752,25,6,2023-03-03,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,162952.9
+397,78070,8,21,2025-10-07,1,Llegó dañado por transporte,Tienda Física,Aprobado,99076.84
+398,54749,66,5,2025-04-24,1,No cumple expectativas,Recolección Domicilio,Aprobado,205608.75
+399,5802,56,11,2025-02-26,2,Talla/Color incorrecto,Tienda Física,Aprobado,159234.08
+400,19191,69,8,2023-06-24,1,Talla/Color incorrecto,Tienda Física,Aprobado,57430.01
+401,49690,96,5,2023-09-21,1,Talla/Color incorrecto,Tienda Física,Rechazado,181733.44
+402,50994,59,8,2025-04-27,1,Defecto de fábrica,Tienda Física,Aprobado,118051.67
+403,29593,60,16,2023-12-14,1,Talla/Color incorrecto,Tienda Física,Aprobado,106520.12
+404,10648,78,23,2024-04-07,1,No cumple expectativas,Tienda Física,Aprobado,121214.33
+405,8717,66,23,2024-01-02,1,Llegó dañado por transporte,Punto de Entrega/Correo,Aprobado,139869.09
+406,88892,41,25,2025-08-25,1,No cumple expectativas,Tienda Física,En Revisión,221554.74
+407,87546,81,25,2023-09-13,1,No cumple expectativas,Tienda Física,Aprobado,61171.2
+408,89913,3,23,2025-04-08,1,Defecto de fábrica,Tienda Física,Rechazado,105252.53
+409,70317,82,25,2025-07-02,1,Talla/Color incorrecto,Punto de Entrega/Correo,En Revisión,133966.14
+410,2369,29,23,2023-03-17,9,Defecto de fábrica,Tienda Física,En Revisión,1453228.2
+411,77576,54,7,2025-02-22,2,Defecto de fábrica,Tienda Física,Aprobado,197524.64
+412,6656,51,25,2024-12-13,2,No cumple expectativas,Recolección Domicilio,Aprobado,304039.86
+413,70032,26,23,2025-12-23,2,Producto erróneo,Recolección Domicilio,Aprobado,35524.8
+414,76430,96,23,2024-12-08,1,Defecto de fábrica,Tienda Física,Aprobado,156678.23
+415,91084,64,25,2023-12-24,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,141158.59
+416,87923,62,18,2024-07-09,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,130383.77
+417,55767,27,7,2023-05-06,1,Defecto de fábrica,Recolección Domicilio,Aprobado,167417.99
+418,13404,86,21,2023-03-15,4,Talla/Color incorrecto,Tienda Física,Aprobado,403962.64
+419,32098,96,14,2025-03-22,1,No cumple expectativas,Punto de Entrega/Correo,Aprobado,245367.07
+420,78658,7,14,2023-06-30,2,No cumple expectativas,Tienda Física,Aprobado,208211.22
+421,10967,97,19,2025-06-20,1,Defecto de fábrica,Tienda Física,Aprobado,124533.33
+422,99158,6,25,2024-06-07,1,Talla/Color incorrecto,Tienda Física,Aprobado,149758.43
+423,93849,75,10,2025-06-25,2,No cumple expectativas,Tienda Física,Aprobado,355285.94
+424,52922,1,23,2025-09-03,1,Talla/Color incorrecto,Tienda Física,Aprobado,179217.1
+425,49727,99,2,2024-01-07,1,Defecto de fábrica,Recolección Domicilio,Aprobado,121940.67
+426,50301,83,15,2023-09-12,1,No cumple expectativas,Tienda Física,En Revisión,17900.37
+427,22678,65,19,2023-07-13,1,Defecto de fábrica,Tienda Física,Aprobado,227353.84
+428,55610,99,1,2023-06-02,1,No cumple expectativas,Tienda Física,Aprobado,151278.0
+429,96826,100,20,2024-04-27,2,Defecto de fábrica,Tienda Física,Aprobado,446246.64
+430,56662,6,25,2025-03-11,1,Retraso en entrega,Punto de Entrega/Correo,Aprobado,229981.11
+431,31025,89,9,2023-02-18,2,Talla/Color incorrecto,Tienda Física,Aprobado,47979.1
+432,70314,71,14,2024-10-21,2,Defecto de fábrica,Tienda Física,Aprobado,271291.72
+433,53007,21,21,2024-01-18,3,Defecto de fábrica,Tienda Física,Aprobado,435863.46
+434,95286,11,12,2023-12-20,1,Defecto de fábrica,Tienda Física,Aprobado,173307.19
+435,15339,17,23,2026-03-10,3,Llegó dañado por transporte,Tienda Física,Aprobado,200840.7
+436,68028,68,23,2024-07-03,1,Producto erróneo,Recolección Domicilio,Aprobado,172099.76
+437,92773,69,15,2026-02-01,3,Talla/Color incorrecto,Punto de Entrega/Correo,En Revisión,423982.71
+438,80136,79,15,2025-12-28,1,Talla/Color incorrecto,Tienda Física,En Revisión,18514.7
+439,19509,56,25,2024-02-12,1,No cumple expectativas,Recolección Domicilio,Aprobado,242675.89
+440,3052,61,23,2024-02-07,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,145800.52
+441,48748,29,7,2023-06-29,4,Talla/Color incorrecto,Recolección Domicilio,Aprobado,218302.2
+442,87143,36,5,2025-07-02,2,Talla/Color incorrecto,Tienda Física,Aprobado,357326.22
+443,87236,77,15,2024-12-04,4,Talla/Color incorrecto,Tienda Física,Aprobado,808360.76
+444,54022,8,6,2025-03-09,1,No cumple expectativas,Tienda Física,En Revisión,200520.17
+445,66413,1,25,2025-09-05,1,Defecto de fábrica,Recolección Domicilio,Aprobado,97673.43
+446,58336,78,23,2024-12-09,2,No cumple expectativas,Recolección Domicilio,Aprobado,13350.3
+447,56180,31,25,2023-04-17,2,Talla/Color incorrecto,Tienda Física,Aprobado,46570.58
+448,32094,18,3,2024-10-09,2,No cumple expectativas,Tienda Física,En Revisión,350724.16
+449,69679,79,21,2025-06-03,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,174121.14
+450,80739,65,7,2024-07-17,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,84086.32
+451,39735,83,10,2026-03-22,3,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,43180.08
+452,72616,65,15,2023-09-02,1,No cumple expectativas,Recolección Domicilio,Aprobado,38253.16
+453,73524,6,25,2024-08-02,1,Defecto de fábrica,Tienda Física,Aprobado,124087.77
+454,94477,45,21,2024-11-17,1,Talla/Color incorrecto,Tienda Física,En Revisión,189067.74
+455,17020,56,17,2023-01-20,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,175217.07
+456,83614,49,13,2024-11-10,1,Talla/Color incorrecto,Tienda Física,Aprobado,75355.24
+457,91795,62,25,2023-12-16,1,No cumple expectativas,Tienda Física,Aprobado,82975.51
+458,86673,51,5,2024-07-12,1,No cumple expectativas,Recolección Domicilio,Aprobado,39400.2
+459,73848,61,15,2024-02-03,1,Llegó dañado por transporte,Tienda Física,Aprobado,199480.53
+460,82751,34,8,2024-12-26,1,Defecto de fábrica,Recolección Domicilio,Aprobado,4749.96
+461,79635,9,17,2025-07-05,1,Llegó dañado por transporte,Tienda Física,Aprobado,103278.17
+462,28252,67,23,2023-11-05,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,77579.29
+463,25946,57,23,2025-04-11,1,Defecto de fábrica,Tienda Física,Aprobado,196447.28
+464,90853,57,11,2026-01-17,2,Defecto de fábrica,Tienda Física,Aprobado,377465.32
+465,32218,82,16,2024-08-13,2,Defecto de fábrica,Recolección Domicilio,Rechazado,487301.76
+466,8309,70,6,2025-11-01,1,No cumple expectativas,Tienda Física,Aprobado,167688.43
+467,5950,74,21,2026-02-12,1,No cumple expectativas,Recolección Domicilio,Aprobado,169570.91
+468,51991,48,25,2024-10-26,2,No cumple expectativas,Recolección Domicilio,Aprobado,180001.28
+469,1151,55,16,2024-06-22,1,Talla/Color incorrecto,Tienda Física,Aprobado,52867.83
+470,89481,7,25,2024-12-27,1,Talla/Color incorrecto,Tienda Física,Aprobado,207326.94
+471,74741,50,19,2023-04-27,1,Defecto de fábrica,Tienda Física,Aprobado,70738.5
+472,66618,64,12,2023-06-15,1,Defecto de fábrica,Tienda Física,Aprobado,247999.96
+473,94842,32,13,2026-03-16,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,136778.87
+474,16897,74,21,2025-06-04,1,Defecto de fábrica,Recolección Domicilio,Aprobado,130639.12
+475,46176,69,10,2023-04-11,1,Defecto de fábrica,Recolección Domicilio,Aprobado,191710.85
+476,7806,46,13,2025-08-17,1,Talla/Color incorrecto,Recolección Domicilio,En Revisión,50815.57
+477,5238,17,23,2024-08-14,1,No cumple expectativas,Tienda Física,Aprobado,50082.28
+478,20057,48,6,2024-01-24,2,Producto erróneo,Punto de Entrega/Correo,Aprobado,486116.5
+479,45544,75,7,2026-02-07,2,Llegó dañado por transporte,Recolección Domicilio,Rechazado,148461.42
+480,56557,40,19,2023-03-15,3,No cumple expectativas,Recolección Domicilio,En Revisión,600231.57
+481,3344,66,1,2023-12-08,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,151484.43
+482,13501,36,16,2025-08-10,1,No cumple expectativas,Tienda Física,Aprobado,192896.31
+483,53223,92,15,2025-06-06,1,No cumple expectativas,Recolección Domicilio,Aprobado,48595.88
+484,29376,29,23,2024-10-14,1,Defecto de fábrica,Tienda Física,Aprobado,66251.88
+485,9663,10,2,2024-05-05,1,Talla/Color incorrecto,Tienda Física,Aprobado,76279.79
+486,16965,21,13,2025-03-02,1,Llegó dañado por transporte,Tienda Física,Aprobado,86655.18
+487,59639,82,16,2023-09-24,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,124754.74
+488,73667,83,17,2025-04-10,2,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,200528.8
+489,85068,12,14,2026-02-05,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,51499.89
+490,67216,44,11,2025-10-21,3,Defecto de fábrica,Recolección Domicilio,Aprobado,53606.22
+491,69043,35,6,2025-07-31,1,Talla/Color incorrecto,Tienda Física,Aprobado,101093.25
+492,13285,4,7,2023-06-07,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,137521.13
+493,72790,22,7,2023-02-07,1,Defecto de fábrica,Tienda Física,Aprobado,138906.27
+494,84665,75,12,2023-12-24,1,Defecto de fábrica,Tienda Física,En Revisión,91279.97
+495,93469,6,5,2025-02-17,1,Llegó dañado por transporte,Tienda Física,Aprobado,125337.79
+496,61390,94,15,2024-01-15,1,Defecto de fábrica,Recolección Domicilio,Aprobado,221345.23
+497,9436,32,25,2023-01-13,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,175284.46
+498,54341,54,14,2024-06-13,2,Defecto de fábrica,Tienda Física,Aprobado,282124.62
+499,44079,11,17,2025-05-25,4,Llegó dañado por transporte,Tienda Física,En Revisión,490577.24
+500,78833,53,7,2024-12-28,1,Defecto de fábrica,Recolección Domicilio,Aprobado,154722.97
+501,51294,91,17,2025-10-21,5,Talla/Color incorrecto,Tienda Física,Aprobado,559389.85
+502,95982,81,25,2024-02-01,3,Llegó dañado por transporte,Recolección Domicilio,Aprobado,20346.54
+503,78782,93,6,2023-03-13,1,Llegó dañado por transporte,Punto de Entrega/Correo,Aprobado,36230.79
+504,60404,53,8,2025-01-31,5,Defecto de fábrica,Tienda Física,Aprobado,520154.3
+505,29125,20,23,2024-06-13,3,Llegó dañado por transporte,Tienda Física,Aprobado,646705.5
+506,95436,2,14,2030-01-09,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,162410.46
+507,43920,24,16,2025-07-06,4,Talla/Color incorrecto,Recolección Domicilio,Aprobado,972074.56
+508,35248,63,3,2025-03-20,1,Defecto de fábrica,Tienda Física,Aprobado,26529.33
+509,94759,46,14,2025-09-22,1,Defecto de fábrica,Punto de Entrega/Correo,En Revisión,104598.27
+510,91748,18,23,2025-08-11,2,No cumple expectativas,Tienda Física,Aprobado,405790.34
+511,62753,46,18,2026-03-31,1,Talla/Color incorrecto,Tienda Física,Aprobado,156079.26
+512,56574,21,3,2024-06-25,2,Talla/Color incorrecto,Recolección Domicilio,Aprobado,364092.12
+513,59102,80,9,2025-02-19,1,No cumple expectativas,Punto de Entrega/Correo,Rechazado,36875.08
+514,26647,1,8,2025-08-11,2,No cumple expectativas,Tienda Física,Aprobado,442195.42
+515,23050,70,14,2030-01-10,1,Defecto de fábrica,Recolección Domicilio,Aprobado,95775.57
+516,79606,88,21,2026-01-23,1,No cumple expectativas,Tienda Física,Aprobado,102920.3
+517,98117,68,14,2025-08-29,1,Defecto de fábrica,Tienda Física,Aprobado,49971.49
+518,97380,48,7,2025-10-08,1,No cumple expectativas,Tienda Física,Aprobado,63288.07
+519,68386,74,10,2023-10-18,1,No cumple expectativas,Punto de Entrega/Correo,Aprobado,121793.49
+520,40159,68,23,2025-03-03,1,Retraso en entrega,Tienda Física,Aprobado,56883.97
+521,65418,29,21,2025-03-09,3,Defecto de fábrica,Tienda Física,Aprobado,651118.53
+522,23290,99,16,2024-12-04,2,Defecto de fábrica,Tienda Física,Aprobado,490255.0
+523,9824,89,14,2024-02-07,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,165040.53
+524,60161,22,5,2023-09-12,1,Defecto de fábrica,Recolección Domicilio,Aprobado,131407.08
+525,41976,30,3,2023-05-31,1,Defecto de fábrica,Recolección Domicilio,Aprobado,64974.33
+526,9541,34,2,2023-06-27,1,Llegó dañado por transporte,Tienda Física,Aprobado,47883.29
+527,16365,51,8,2026-02-10,1,Defecto de fábrica,Recolección Domicilio,Aprobado,227592.56
+528,4612,95,11,2023-12-07,2,Defecto de fábrica,Tienda Física,Aprobado,176376.1
+529,27664,59,17,2024-03-01,1,No cumple expectativas,Recolección Domicilio,Aprobado,31539.2
+530,51992,3,2,2025-02-23,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,95582.59
+531,57680,43,8,2023-05-01,2,No cumple expectativas,Tienda Física,Aprobado,415420.92
+532,30978,93,19,2026-01-01,1,Defecto de fábrica,Recolección Domicilio,Aprobado,46632.83
+533,94705,86,25,2023-09-13,1,Talla/Color incorrecto,Tienda Física,Aprobado,38472.19
+534,49116,94,7,2024-03-06,9,Defecto de fábrica,Tienda Física,Aprobado,459470.16
+535,91008,18,25,2023-05-20,1,Defecto de fábrica,Tienda Física,Aprobado,232866.78
+536,88224,42,3,2024-01-26,1,Llegó dañado por transporte,Tienda Física,Aprobado,199035.31
+537,60891,51,13,2024-04-29,1,Defecto de fábrica,Tienda Física,Aprobado,97703.29
+538,66388,5,25,2024-02-01,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,162636.81
+539,18072,14,11,2025-03-23,2,Talla/Color incorrecto,Tienda Física,Aprobado,452219.82
+540,59276,58,23,2025-09-13,1,Defecto de fábrica,Recolección Domicilio,Rechazado,30521.35
+541,72370,24,15,2024-12-18,1,Llegó dañado por transporte,Tienda Física,Rechazado,197929.25
+542,11939,32,2,2023-04-27,1,Defecto de fábrica,Tienda Física,Aprobado,25384.49
+543,35196,76,21,2025-09-15,1,No cumple expectativas,Recolección Domicilio,Aprobado,182300.27
+544,91681,88,13,2025-02-18,1,Retraso en entrega,Tienda Física,Aprobado,74425.41
+545,4001,31,25,2025-12-03,2,Talla/Color incorrecto,Tienda Física,Aprobado,279136.36
+546,70589,17,15,2024-11-06,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,98601.45
+547,93611,71,25,2023-11-07,1,Defecto de fábrica,Tienda Física,Aprobado,70306.07
+548,97857,83,25,2024-06-15,1,Talla/Color incorrecto,Tienda Física,Aprobado,113136.0
+549,38305,32,4,2025-01-11,1,Defecto de fábrica,Tienda Física,Aprobado,58387.34
+550,69450,35,25,2025-08-22,3,No cumple expectativas,Punto de Entrega/Correo,Aprobado,155904.39
+551,82987,60,25,2023-06-08,1,Retraso en entrega,Recolección Domicilio,Aprobado,28056.97
+552,89644,99,12,2024-05-23,1,Defecto de fábrica,Recolección Domicilio,Aprobado,136404.19
+553,20765,100,10,2024-10-04,1,No cumple expectativas,Recolección Domicilio,Aprobado,202465.82
+554,86028,74,1,2025-12-01,3,Defecto de fábrica,Tienda Física,Aprobado,563089.95
+555,38495,61,23,2025-04-19,2,Talla/Color incorrecto,Tienda Física,Aprobado,384819.56
+556,3374,49,19,2024-03-20,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,193041.54
+557,12162,8,23,2025-03-03,1,Retraso en entrega,Tienda Física,En Revisión,35319.56
+558,97533,31,12,2023-04-17,1,No cumple expectativas,Tienda Física,Aprobado,91427.17
+559,92659,39,6,2024-04-27,2,Defecto de fábrica,Tienda Física,En Revisión,414277.42
+560,27351,70,18,2026-03-09,1,Defecto de fábrica,Tienda Física,En Revisión,222359.93
+561,93009,36,16,2023-05-02,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,115722.91
+562,94298,68,14,2026-01-30,1,Defecto de fábrica,Tienda Física,Aprobado,196372.59
+563,25352,86,5,2024-02-07,1,Defecto de fábrica,Tienda Física,Aprobado,2000.37
+564,88669,39,2,2025-01-30,2,Llegó dañado por transporte,Tienda Física,Rechazado,439611.38
+565,15306,27,16,2023-02-13,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,85379.54
+566,75354,52,25,2024-10-10,1,Talla/Color incorrecto,Tienda Física,Aprobado,141687.21
+567,76798,65,13,2023-05-24,1,Defecto de fábrica,Tienda Física,Aprobado,33447.77
+568,65954,71,23,2025-08-27,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,186071.91
+569,57459,4,23,2023-04-18,1,No cumple expectativas,Recolección Domicilio,Aprobado,150829.61
+570,20359,4,1,2024-04-04,4,Defecto de fábrica,Tienda Física,Aprobado,36376.92
+571,3268,90,17,2025-05-14,2,No cumple expectativas,Tienda Física,Aprobado,164852.08
+572,82746,57,1,2025-01-01,1,Talla/Color incorrecto,Tienda Física,Rechazado,220525.6
+573,89589,24,11,2024-02-03,2,Defecto de fábrica,Tienda Física,Aprobado,446263.24
+574,38514,42,7,2023-06-04,4,Talla/Color incorrecto,Tienda Física,En Revisión,922986.68
+575,26093,18,9,2024-05-25,2,Talla/Color incorrecto,Tienda Física,Aprobado,420115.88
+576,11339,66,20,2024-04-26,1,Defecto de fábrica,Tienda Física,Aprobado,69842.45
+577,413,38,9,2023-09-04,2,Llegó dañado por transporte,Tienda Física,Aprobado,66266.18
+578,7544,45,25,2023-04-11,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,173403.91
+579,33497,57,23,2025-12-07,2,No cumple expectativas,Punto de Entrega/Correo,Aprobado,214241.6
+580,60693,1,18,2024-06-20,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,225578.3
+581,89085,8,25,2025-03-16,3,Talla/Color incorrecto,Tienda Física,Aprobado,675902.49
+582,92921,73,23,2023-04-30,1,No cumple expectativas,Tienda Física,Rechazado,142062.22
+583,44426,50,17,2026-02-04,1,Talla/Color incorrecto,Punto de Entrega/Correo,En Revisión,103514.66
+584,38757,71,23,2025-10-31,4,Defecto de fábrica,Tienda Física,Aprobado,75603.0
+585,18889,4,23,2026-04-04,2,Talla/Color incorrecto,Tienda Física,Aprobado,288122.7
+586,35736,78,25,2025-04-24,1,Llegó dañado por transporte,Tienda Física,Aprobado,27339.63
+587,47296,94,1,2023-03-14,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,169072.37
+588,83043,93,2,2024-02-12,1,Defecto de fábrica,Recolección Domicilio,Rechazado,84635.01
+589,86000,31,2,2025-08-10,1,No cumple expectativas,Tienda Física,Aprobado,12326.03
+590,17956,46,10,2024-12-12,2,Defecto de fábrica,Tienda Física,Aprobado,238023.4
+591,37842,50,13,2023-07-25,4,Defecto de fábrica,Punto de Entrega/Correo,En Revisión,27664.0
+592,70641,39,17,2025-07-16,1,Defecto de fábrica,Tienda Física,Aprobado,232596.53
+593,65511,94,3,2023-12-22,1,Defecto de fábrica,Recolección Domicilio,Aprobado,29166.35
+594,34912,11,23,2024-03-31,2,No cumple expectativas,Recolección Domicilio,Aprobado,468480.48
+595,59032,26,9,2026-01-13,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,62711.7
+596,88727,32,23,2024-12-03,2,Defecto de fábrica,Tienda Física,Aprobado,142651.44
+597,7358,65,3,2024-01-02,2,Llegó dañado por transporte,Tienda Física,Aprobado,447344.76
+598,32480,31,13,2025-01-10,1,Llegó dañado por transporte,Tienda Física,Aprobado,46347.02
+599,61477,50,13,2024-08-06,1,Llegó dañado por transporte,Punto de Entrega/Correo,Aprobado,75797.14
+600,44812,87,6,2024-09-25,2,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,309037.42
+601,36209,32,14,2024-07-01,1,Talla/Color incorrecto,Tienda Física,Aprobado,78976.84
+602,20151,4,11,2024-10-15,1,Retraso en entrega,Tienda Física,Aprobado,192982.82
+603,71181,57,9,2025-04-01,1,No cumple expectativas,Punto de Entrega/Correo,Aprobado,197328.8
+604,43287,94,5,2023-12-12,1,Defecto de fábrica,Recolección Domicilio,Aprobado,17853.49
+605,68451,58,9,2024-07-22,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,121666.72
+606,21353,75,11,2025-05-02,1,Talla/Color incorrecto,Tienda Física,Aprobado,5859.08
+607,55070,50,23,2024-02-03,2,Llegó dañado por transporte,Tienda Física,Aprobado,122061.64
+608,14398,65,2,2025-09-11,2,Talla/Color incorrecto,Recolección Domicilio,Aprobado,323289.42
+609,41556,43,17,2024-02-16,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,158465.95
+610,46960,2,6,2023-12-13,2,Defecto de fábrica,Tienda Física,Aprobado,337990.62
+611,729,82,25,2023-11-09,1,No cumple expectativas,Tienda Física,Aprobado,6807.02
+612,50518,66,25,2023-02-06,1,Llegó dañado por transporte,Tienda Física,Aprobado,227839.5
+613,66235,88,9,2023-05-04,1,Talla/Color incorrecto,Tienda Física,Aprobado,82783.72
+614,39955,73,4,2024-12-16,1,No cumple expectativas,Tienda Física,Aprobado,187069.7
+615,47281,9,20,2023-11-12,2,Retraso en entrega,Punto de Entrega/Correo,Aprobado,307847.44
+616,79460,85,5,2026-03-16,4,Defecto de fábrica,Tienda Física,Aprobado,842737.24
+617,16780,89,14,2024-09-10,1,Talla/Color incorrecto,Recolección Domicilio,En Revisión,66343.52
+618,63933,96,23,2026-01-01,1,Defecto de fábrica,Tienda Física,Aprobado,59286.54
+619,72937,80,23,2024-07-01,1,No cumple expectativas,Recolección Domicilio,Aprobado,163541.47
+620,24467,10,16,2023-07-18,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,37836.02
+621,36940,17,17,2023-08-19,1,No cumple expectativas,Tienda Física,Aprobado,248973.71
+622,69897,2,5,2024-12-07,3,No cumple expectativas,Tienda Física,Aprobado,29912.52
+623,35271,57,23,2024-12-31,1,Talla/Color incorrecto,Tienda Física,Aprobado,108454.12
+624,59164,78,23,2024-11-26,1,Llegó dañado por transporte,Tienda Física,Aprobado,114826.15
+625,82638,82,18,2024-01-04,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,62290.75
+626,51935,62,21,2023-05-26,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,243354.12
+627,64896,55,11,2024-09-15,2,No cumple expectativas,Tienda Física,Aprobado,416929.68
+628,32308,33,23,2024-11-17,2,No cumple expectativas,Tienda Física,Aprobado,212722.76
+629,54099,44,25,2025-11-14,3,Defecto de fábrica,Tienda Física,Aprobado,126194.37
+630,60922,27,14,2023-07-16,2,Llegó dañado por transporte,Recolección Domicilio,En Revisión,182092.22
+631,5487,45,16,2023-08-04,1,Llegó dañado por transporte,Tienda Física,Aprobado,95797.88
+632,8336,47,25,2025-06-10,1,Defecto de fábrica,Tienda Física,Rechazado,7194.3
+633,86901,96,23,2024-07-06,1,Retraso en entrega,Recolección Domicilio,Aprobado,244479.37
+634,89113,41,10,2024-10-30,2,Defecto de fábrica,Recolección Domicilio,Aprobado,282154.86
+635,97204,98,17,2024-02-02,1,Defecto de fábrica,Tienda Física,Aprobado,126191.52
+636,11131,90,12,2023-10-03,2,Defecto de fábrica,Recolección Domicilio,Aprobado,401687.38
+637,87509,19,10,2024-03-22,1,Llegó dañado por transporte,Tienda Física,Aprobado,165445.86
+638,60567,61,13,2023-10-03,1,No cumple expectativas,Tienda Física,Aprobado,191221.14
+639,66704,68,23,2023-05-13,2,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,50741.12
+640,27193,48,10,2023-04-11,3,Talla/Color incorrecto,Recolección Domicilio,En Revisión,362650.02
+641,1063,97,14,2023-12-26,1,No cumple expectativas,Tienda Física,Aprobado,9123.09
+642,84077,37,17,2025-02-16,1,Defecto de fábrica,Tienda Física,Aprobado,95607.31
+643,89781,33,3,2024-10-08,1,Llegó dañado por transporte,Tienda Física,Aprobado,29030.68
+644,21546,80,17,2023-05-13,1,Llegó dañado por transporte,Tienda Física,Aprobado,159948.93
+645,21690,94,2,2030-01-03,1,Talla/Color incorrecto,Tienda Física,Aprobado,208827.5
+646,11175,95,3,2025-01-10,2,Retraso en entrega,Tienda Física,Aprobado,316811.18
+647,88462,83,23,2025-01-28,1,Talla/Color incorrecto,Tienda Física,En Revisión,14393.61
+648,9349,58,1,2025-12-10,1,Retraso en entrega,Recolección Domicilio,Aprobado,208823.54
+649,23715,50,18,2023-07-25,1,No cumple expectativas,Recolección Domicilio,Aprobado,126281.31
+650,38103,36,23,2024-04-16,1,No cumple expectativas,Recolección Domicilio,Aprobado,199862.43
+651,74461,80,25,2023-01-27,1,Defecto de fábrica,Tienda Física,En Revisión,76046.57
+652,89931,44,14,2025-02-13,9,Llegó dañado por transporte,Punto de Entrega/Correo,Aprobado,1807368.75
+653,6802,7,9,2025-12-26,2,Talla/Color incorrecto,Recolección Domicilio,Aprobado,170600.5
+654,72268,35,14,2024-07-14,2,Defecto de fábrica,Recolección Domicilio,Aprobado,201475.28
+655,48137,26,25,2023-03-31,1,Defecto de fábrica,Recolección Domicilio,Aprobado,120290.01
+656,23626,47,14,2023-06-24,2,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,234674.12
+657,82874,46,23,2025-09-18,1,Talla/Color incorrecto,Tienda Física,Aprobado,200790.46
+658,72593,18,23,2024-10-26,1,No cumple expectativas,Tienda Física,Aprobado,115457.34
+659,77053,71,12,2025-10-09,2,Llegó dañado por transporte,Recolección Domicilio,Aprobado,386875.24
+660,44262,26,16,2023-11-08,4,Defecto de fábrica,Recolección Domicilio,Aprobado,479016.56
+661,1543,9,15,2024-08-24,3,No cumple expectativas,Recolección Domicilio,Aprobado,696894.9
+662,21678,77,4,2024-11-22,1,Defecto de fábrica,Tienda Física,Aprobado,1656.04
+663,46733,37,20,2024-08-19,1,Llegó dañado por transporte,Tienda Física,Aprobado,30382.82
+664,50344,31,9,2025-12-11,1,Llegó dañado por transporte,Tienda Física,Aprobado,230383.03
+665,39082,35,14,2025-06-04,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,125489.62
+666,62857,7,1,2023-01-31,1,No cumple expectativas,Tienda Física,Aprobado,57476.09
+667,93106,75,7,2024-10-08,1,Defecto de fábrica,Tienda Física,Aprobado,58791.99
+668,88859,49,23,2023-11-02,1,Talla/Color incorrecto,Tienda Física,En Revisión,216129.72
+669,19066,13,12,2024-11-09,2,Llegó dañado por transporte,Tienda Física,Aprobado,55783.42
+670,83461,75,7,2026-03-26,7,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,1445381.14
+671,88093,68,14,2023-07-08,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,201635.31
+672,54694,77,19,2025-07-02,2,Talla/Color incorrecto,Recolección Domicilio,Aprobado,87288.42
+673,26963,54,13,2025-10-24,1,Llegó dañado por transporte,Tienda Física,Aprobado,241033.84
+674,28296,83,17,2025-09-12,1,Defecto de fábrica,Recolección Domicilio,Aprobado,173940.67
+675,13808,71,5,2025-03-18,1,Defecto de fábrica,Tienda Física,Aprobado,7071.34
+676,42349,49,5,2023-12-20,1,No cumple expectativas,Recolección Domicilio,Aprobado,58200.93
+677,26433,1,23,2025-08-09,1,Llegó dañado por transporte,Tienda Física,Aprobado,80669.67
+678,83286,97,25,2023-06-21,1,Defecto de fábrica,Tienda Física,Aprobado,167835.72
+679,91793,24,6,2024-03-19,1,Defecto de fábrica,Recolección Domicilio,Aprobado,220761.41
+680,57855,27,23,2023-08-13,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,213005.56
+681,40263,11,4,2025-04-24,1,Defecto de fábrica,Tienda Física,Rechazado,60675.7
+682,37081,90,3,2024-04-24,1,Talla/Color incorrecto,Recolección Domicilio,En Revisión,235456.98
+683,1325,47,23,2025-01-20,1,No cumple expectativas,Tienda Física,Aprobado,144213.26
+684,91268,67,1,2025-11-10,1,No cumple expectativas,Tienda Física,Aprobado,195053.55
+685,35910,15,15,2024-05-30,4,No cumple expectativas,Tienda Física,Aprobado,944151.36
+686,89340,55,17,2024-01-29,2,Talla/Color incorrecto,Tienda Física,Aprobado,351666.58
+687,19871,97,25,2024-08-19,3,Llegó dañado por transporte,Tienda Física,Aprobado,537412.26
+688,34579,22,12,2025-03-02,1,Talla/Color incorrecto,Tienda Física,Aprobado,153834.48
+689,72125,34,23,2024-05-20,1,Retraso en entrega,Tienda Física,Aprobado,194782.19
+690,26791,58,23,2023-08-05,1,No cumple expectativas,Punto de Entrega/Correo,Aprobado,129417.69
+691,25290,94,25,2025-04-19,1,Defecto de fábrica,Tienda Física,Aprobado,236001.98
+692,55130,100,2,2023-08-11,1,No cumple expectativas,Recolección Domicilio,Aprobado,76446.81
+693,93715,98,18,2025-03-27,1,Defecto de fábrica,Tienda Física,Aprobado,57138.54
+694,94247,46,6,2025-12-21,1,No cumple expectativas,Recolección Domicilio,Aprobado,179332.64
+695,15486,29,5,2024-02-12,2,Defecto de fábrica,Tienda Física,En Revisión,209910.54
+696,44483,17,21,2024-05-13,2,Defecto de fábrica,Tienda Física,Aprobado,457801.6
+697,86189,5,2,2024-12-21,1,Llegó dañado por transporte,Tienda Física,Aprobado,159563.02
+698,4749,70,25,2024-03-18,2,Defecto de fábrica,Tienda Física,Rechazado,311395.56
+699,86770,71,17,2023-05-29,1,Llegó dañado por transporte,Tienda Física,En Revisión,245277.85
+700,9436,32,25,2023-01-12,1,Defecto de fábrica,Recolección Domicilio,Aprobado,175284.46
+701,3710,81,10,2025-04-26,7,No cumple expectativas,Punto de Entrega/Correo,Aprobado,1436986.39
+702,30356,18,25,2025-07-09,3,No cumple expectativas,Recolección Domicilio,Aprobado,698453.07
+703,55772,37,7,2025-05-04,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,19690.19
+704,57800,28,25,2025-09-06,1,Defecto de fábrica,Tienda Física,Aprobado,73167.38
+705,13117,54,25,2023-12-15,1,Defecto de fábrica,Tienda Física,Aprobado,173688.84
+706,25471,92,23,2023-06-28,3,Defecto de fábrica,Tienda Física,Aprobado,116403.87
+707,42345,78,8,2025-03-16,1,Defecto de fábrica,Tienda Física,Aprobado,197934.91
+708,42919,2,8,2024-01-21,1,No cumple expectativas,Tienda Física,Aprobado,111476.44
+709,52225,57,23,2025-03-22,1,Llegó dañado por transporte,Tienda Física,Aprobado,84104.37
+710,39299,54,5,2024-06-18,1,Llegó dañado por transporte,Tienda Física,Aprobado,150463.64
+711,80220,25,17,2026-02-24,2,No cumple expectativas,Tienda Física,Aprobado,127849.96
+712,61630,95,25,2024-06-06,1,No cumple expectativas,Recolección Domicilio,Aprobado,175202.28
+713,66041,56,19,2025-06-12,1,No cumple expectativas,Recolección Domicilio,Aprobado,102729.94
+714,99519,6,25,2025-08-10,1,Defecto de fábrica,Tienda Física,Aprobado,80427.51
+715,99836,36,14,2025-09-09,2,Llegó dañado por transporte,Punto de Entrega/Correo,Rechazado,373525.24
+716,28017,100,5,2026-04-01,2,No cumple expectativas,Punto de Entrega/Correo,Aprobado,467844.66
+717,23961,90,10,2025-10-25,2,Talla/Color incorrecto,Tienda Física,Aprobado,145142.12
+718,33592,75,12,2023-06-09,2,Defecto de fábrica,Tienda Física,Aprobado,62570.64
+719,82849,3,5,2023-07-08,1,Talla/Color incorrecto,Tienda Física,Aprobado,121977.44
+720,67642,94,14,2023-07-24,2,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,118172.86
+721,36396,85,21,2025-11-06,1,Llegó dañado por transporte,Punto de Entrega/Correo,Aprobado,184778.08
+722,22701,24,1,2025-10-26,1,Talla/Color incorrecto,Tienda Física,Aprobado,2604.77
+723,34621,1,1,2023-04-09,1,Talla/Color incorrecto,Tienda Física,Aprobado,29047.8
+724,20560,31,20,2023-05-24,2,Retraso en entrega,Tienda Física,Aprobado,407077.18
+725,93046,5,6,2023-12-16,1,Defecto de fábrica,Tienda Física,Aprobado,116904.71
+726,93397,35,20,2025-04-06,1,Talla/Color incorrecto,Tienda Física,Aprobado,223345.69
+727,61643,77,21,2024-01-23,2,Defecto de fábrica,Punto de Entrega/Correo,En Revisión,232210.22
+728,76540,82,1,2023-02-09,1,No cumple expectativas,Recolección Domicilio,Aprobado,224910.84
+729,21733,84,17,2024-06-14,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,196897.63
+730,91363,15,23,2025-10-31,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,208733.06
+731,30355,39,11,2023-09-24,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,245607.88
+732,13844,69,23,2025-10-18,2,Defecto de fábrica,Tienda Física,Aprobado,480252.7
+733,71727,50,20,2024-08-22,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,152908.19
+734,17641,26,23,2023-08-27,3,No cumple expectativas,Tienda Física,Aprobado,11732.55
+735,52529,87,1,2024-08-09,2,Llegó dañado por transporte,Recolección Domicilio,Aprobado,29953.24
+736,38414,46,17,2024-08-28,1,Defecto de fábrica,Tienda Física,Aprobado,245276.06
+737,52639,83,12,2024-04-15,1,Retraso en entrega,Recolección Domicilio,Aprobado,117668.6
+738,52737,71,17,2023-08-01,2,No cumple expectativas,Tienda Física,Aprobado,129143.56
+739,68867,8,8,2023-04-24,6,Defecto de fábrica,Tienda Física,Aprobado,353873.82
+740,19088,97,11,2023-12-16,1,Llegó dañado por transporte,Tienda Física,Aprobado,118630.74
+741,41431,62,23,2023-10-06,1,Defecto de fábrica,Tienda Física,Aprobado,248669.42
+742,24505,30,8,2025-08-07,2,Llegó dañado por transporte,Recolección Domicilio,Aprobado,226151.7
+743,7115,19,15,2024-03-18,4,Defecto de fábrica,Recolección Domicilio,Aprobado,165099.4
+744,78860,5,15,2024-03-14,1,No cumple expectativas,Tienda Física,Aprobado,117700.01
+745,99658,22,9,2026-02-07,3,Talla/Color incorrecto,Tienda Física,Aprobado,530268.3
+746,10976,3,6,2025-10-22,1,Defecto de fábrica,Tienda Física,Rechazado,27668.18
+747,11024,34,15,2025-06-01,1,Defecto de fábrica,Tienda Física,Aprobado,51996.2
+748,21448,76,14,2024-12-09,1,Defecto de fábrica,Tienda Física,Aprobado,200784.86
+749,90470,73,14,2025-10-30,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,169748.36
+750,23960,41,12,2024-09-20,1,Defecto de fábrica,Tienda Física,Aprobado,220999.51
+751,66204,28,6,2023-05-30,1,Talla/Color incorrecto,Tienda Física,Aprobado,2657.29
+752,29704,6,10,2025-12-23,1,Defecto de fábrica,Tienda Física,Aprobado,138626.45
+753,9338,28,3,2023-04-10,1,Defecto de fábrica,Tienda Física,Aprobado,96464.05
+754,46428,90,14,2025-07-29,1,No cumple expectativas,Tienda Física,Aprobado,77521.33
+755,61530,52,25,2025-03-04,1,Defecto de fábrica,Recolección Domicilio,Aprobado,135732.44
+756,84666,79,16,2025-02-15,1,Llegó dañado por transporte,Tienda Física,Aprobado,24065.01
+757,31922,19,23,2023-11-02,2,Llegó dañado por transporte,Tienda Física,En Revisión,315926.24
+758,33308,18,15,2026-03-12,1,No cumple expectativas,Tienda Física,Aprobado,4142.06
+759,27356,71,13,2024-07-04,1,Talla/Color incorrecto,Tienda Física,Aprobado,205494.35
+760,4836,75,15,2026-02-09,1,Llegó dañado por transporte,Tienda Física,Aprobado,71721.54
+761,20160,62,6,2023-08-20,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,181457.96
+762,47606,57,1,2023-07-27,2,Defecto de fábrica,Recolección Domicilio,Aprobado,296209.8
+763,38089,4,21,2024-07-02,1,Defecto de fábrica,Tienda Física,Aprobado,45137.68
+764,78753,40,2,2024-05-15,1,No cumple expectativas,Tienda Física,Aprobado,44283.49
+765,55285,36,25,2024-07-07,1,Defecto de fábrica,Tienda Física,Aprobado,85768.32
+766,57044,3,25,2025-06-19,3,Talla/Color incorrecto,Tienda Física,Aprobado,689722.17
+767,35548,99,11,2024-03-26,1,Producto erróneo,Recolección Domicilio,Aprobado,39664.34
+768,97008,83,18,2025-08-07,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,229904.08
+769,82845,35,25,2024-05-21,3,Talla/Color incorrecto,Tienda Física,En Revisión,546070.29
+770,27533,51,21,2023-05-03,1,Defecto de fábrica,Tienda Física,Aprobado,150831.54
+771,34350,66,2,2025-12-11,4,Llegó dañado por transporte,Tienda Física,Aprobado,35317.72
+772,45446,55,17,2023-03-02,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,16166.79
+773,5714,84,23,2025-03-31,1,Defecto de fábrica,Recolección Domicilio,En Revisión,127542.93
+774,56179,78,16,2024-03-19,3,Defecto de fábrica,Tienda Física,Aprobado,730692.51
+775,49408,53,23,2023-05-09,1,Llegó dañado por transporte,Tienda Física,Aprobado,77284.89
+776,70341,75,8,2024-04-21,1,No cumple expectativas,Recolección Domicilio,Aprobado,87064.4
+777,50991,63,7,2024-04-05,1,Llegó dañado por transporte,Tienda Física,Aprobado,73219.85
+778,75673,1,4,2023-09-10,1,Llegó dañado por transporte,Tienda Física,Aprobado,68330.72
+779,65546,41,17,2024-10-10,1,Talla/Color incorrecto,Tienda Física,Aprobado,103473.16
+780,84792,20,18,2023-03-22,4,Talla/Color incorrecto,Recolección Domicilio,En Revisión,70270.48
+781,58142,41,12,2025-12-17,2,Talla/Color incorrecto,Tienda Física,Aprobado,217052.08
+782,23794,50,20,2025-07-14,1,Defecto de fábrica,Tienda Física,Aprobado,15688.81
+783,56571,39,12,2024-11-07,2,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,261812.28
+784,95085,43,12,2024-02-27,2,No cumple expectativas,Tienda Física,Aprobado,84968.44
+785,37893,4,9,2025-07-11,1,No cumple expectativas,Tienda Física,Rechazado,166007.23
+786,1016,1,6,2025-01-22,1,Llegó dañado por transporte,Tienda Física,Aprobado,109630.16
+787,61814,1,9,2024-04-09,1,Talla/Color incorrecto,Tienda Física,Aprobado,172276.15
+788,27713,27,1,2025-09-25,4,No cumple expectativas,Recolección Domicilio,Aprobado,261607.52
+789,8416,95,15,2023-05-02,2,No cumple expectativas,Tienda Física,Aprobado,402803.28
+790,62293,32,21,2023-10-23,1,Talla/Color incorrecto,Tienda Física,Aprobado,37272.55
+791,23834,50,23,2025-09-12,1,No cumple expectativas,Tienda Física,Aprobado,222132.0
+792,4159,18,25,2024-02-22,1,Defecto de fábrica,Recolección Domicilio,Aprobado,35316.95
+793,62681,7,7,2023-08-16,1,Talla/Color incorrecto,Recolección Domicilio,En Revisión,50015.77
+794,20310,63,4,2026-03-27,1,Defecto de fábrica,Tienda Física,Aprobado,140806.67
+795,6971,94,4,2026-03-05,1,Talla/Color incorrecto,Tienda Física,En Revisión,129442.83
+796,72475,87,2,2023-04-20,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,26946.34
+797,86705,23,20,2025-01-20,2,No cumple expectativas,Tienda Física,Aprobado,397716.5
+798,46541,13,25,2025-10-12,1,Retraso en entrega,Recolección Domicilio,Aprobado,247696.77
+799,20385,70,9,2025-11-10,1,No cumple expectativas,Recolección Domicilio,Aprobado,227638.96
+800,18018,3,12,2025-02-03,1,No cumple expectativas,Recolección Domicilio,Aprobado,70363.52
+801,75881,63,16,2025-09-01,1,Talla/Color incorrecto,Tienda Física,Aprobado,108827.93
+802,8703,77,15,2025-04-05,1,No cumple expectativas,Tienda Física,Aprobado,29371.95
+803,385,98,7,2023-08-29,1,Defecto de fábrica,Recolección Domicilio,Aprobado,71879.05
+804,405,35,7,2025-02-24,1,Defecto de fábrica,Tienda Física,Aprobado,143195.67
+805,40944,91,23,2026-01-27,3,Talla/Color incorrecto,Tienda Física,Aprobado,476380.65
+806,47927,19,21,2024-04-27,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,154667.23
+807,29190,32,23,2025-06-30,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,149276.76
+808,12764,44,20,2024-06-12,1,Defecto de fábrica,Tienda Física,Aprobado,241234.05
+809,18385,89,5,2023-07-09,1,Defecto de fábrica,Tienda Física,Aprobado,230281.33
+810,60101,51,19,2023-12-07,1,Retraso en entrega,Tienda Física,Rechazado,61374.64
+811,98143,45,13,2025-12-14,1,Defecto de fábrica,Recolección Domicilio,Aprobado,195132.78
+812,9861,35,2,2024-05-20,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,247409.92
+813,80643,53,17,2025-02-10,2,Defecto de fábrica,Tienda Física,Aprobado,405015.4
+814,50613,40,1,2025-05-31,2,No cumple expectativas,Tienda Física,Aprobado,249745.04
+815,23575,28,25,2023-09-21,10,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,215442.7
+816,23525,10,25,2024-08-28,1,Defecto de fábrica,Tienda Física,Aprobado,55728.48
+817,69173,6,21,2024-03-07,1,Talla/Color incorrecto,Tienda Física,En Revisión,4160.72
+818,10917,99,25,2025-11-19,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,4447.46
+819,4810,84,19,2025-02-24,2,Defecto de fábrica,Tienda Física,Aprobado,168013.54
+820,32202,77,23,2025-03-18,2,Defecto de fábrica,Recolección Domicilio,Aprobado,125057.5
+821,53331,14,16,2024-09-23,1,Defecto de fábrica,Tienda Física,Aprobado,56151.14
+822,13457,38,14,2025-12-09,1,Defecto de fábrica,Tienda Física,Aprobado,5940.69
+823,56398,52,16,2023-03-15,1,Defecto de fábrica,Recolección Domicilio,Aprobado,83055.04
+824,38766,74,18,2024-01-24,1,Llegó dañado por transporte,Tienda Física,Aprobado,240143.72
+825,34817,23,4,2023-05-25,2,Talla/Color incorrecto,Punto de Entrega/Correo,En Revisión,270603.96
+826,45107,51,23,2025-06-16,1,Talla/Color incorrecto,Tienda Física,Aprobado,182200.08
+827,53933,82,19,2023-08-03,1,Defecto de fábrica,Tienda Física,Aprobado,154679.76
+828,17101,36,8,2023-01-15,2,Llegó dañado por transporte,Tienda Física,Aprobado,118309.7
+829,57092,75,19,2024-08-03,1,Talla/Color incorrecto,Tienda Física,Aprobado,25466.07
+830,21950,32,4,2023-05-26,1,Defecto de fábrica,Tienda Física,Aprobado,245362.19
+831,70081,48,20,2023-05-15,9,No cumple expectativas,Tienda Física,Aprobado,577155.42
+832,37745,16,17,2024-08-25,1,Defecto de fábrica,Tienda Física,Aprobado,232307.02
+833,45544,75,7,2026-02-08,2,Defecto de fábrica,Tienda Física,Aprobado,148461.42
+834,92194,71,14,2024-06-10,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,120490.81
+835,36188,84,6,2023-12-25,1,Llegó dañado por transporte,Recolección Domicilio,En Revisión,167678.1
+836,7240,61,19,2025-04-17,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,231367.61
+837,14490,96,11,2025-10-31,1,No cumple expectativas,Tienda Física,Rechazado,210316.77
+838,58018,81,10,2025-03-03,3,Producto erróneo,Tienda Física,En Revisión,346279.02
+839,61878,83,18,2024-02-24,3,Defecto de fábrica,Recolección Domicilio,Aprobado,680206.02
+840,43126,13,8,2026-01-24,1,Defecto de fábrica,Tienda Física,Aprobado,189174.38
+841,49923,51,3,2025-09-29,1,Talla/Color incorrecto,Tienda Física,Aprobado,94675.2
+842,94075,70,2,2025-09-10,3,Talla/Color incorrecto,Recolección Domicilio,Aprobado,353335.41
+843,32050,21,12,2026-03-24,2,Talla/Color incorrecto,Recolección Domicilio,Aprobado,305153.32
+844,37132,55,14,2024-05-29,3,Llegó dañado por transporte,Tienda Física,Aprobado,320615.88
+845,42945,33,3,2023-08-26,1,No cumple expectativas,Tienda Física,En Revisión,17857.76
+846,73964,21,7,2024-10-13,2,No cumple expectativas,Recolección Domicilio,Aprobado,124866.64
+847,24286,97,25,2025-11-07,1,Defecto de fábrica,Tienda Física,Aprobado,10080.72
+848,37627,31,18,2023-01-20,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,175105.96
+849,42809,52,11,2026-01-06,1,Retraso en entrega,Recolección Domicilio,En Revisión,214264.08
+850,88465,29,2,2024-09-12,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,128210.4
+851,53872,6,11,2025-04-08,2,Defecto de fábrica,Tienda Física,En Revisión,107754.86
+852,19199,14,10,2024-04-02,1,No cumple expectativas,Tienda Física,Aprobado,95800.33
+853,19759,4,23,2024-04-07,2,Defecto de fábrica,Recolección Domicilio,Aprobado,467594.62
+854,15255,34,6,2025-01-17,1,Defecto de fábrica,Recolección Domicilio,Aprobado,207826.48
+855,44239,69,23,2023-10-19,5,Defecto de fábrica,Recolección Domicilio,Aprobado,730694.1
+856,1253,21,1,2023-10-01,1,No cumple expectativas,Tienda Física,Aprobado,230639.05
+857,39765,6,17,2024-07-09,2,No cumple expectativas,Tienda Física,Aprobado,230765.32
+858,77710,42,11,2023-06-08,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,33713.7
+859,37442,94,14,2024-09-12,2,Talla/Color incorrecto,Recolección Domicilio,Aprobado,210055.5
+860,92235,14,23,2025-02-28,2,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,76994.56
+861,53683,100,1,2025-04-01,2,Talla/Color incorrecto,Recolección Domicilio,En Revisión,474188.06
+862,59495,49,12,2023-02-22,2,Defecto de fábrica,Tienda Física,Aprobado,295868.5
+863,81318,36,15,2025-01-25,7,Talla/Color incorrecto,Recolección Domicilio,Aprobado,343656.11
+864,65216,15,3,2023-01-14,1,No cumple expectativas,Punto de Entrega/Correo,Aprobado,242710.38
+865,78588,62,25,2025-10-18,8,Defecto de fábrica,Tienda Física,Aprobado,752070.24
+866,6950,81,15,2023-04-14,1,Defecto de fábrica,Recolección Domicilio,Aprobado,33239.15
+867,55394,22,19,2025-08-08,2,Talla/Color incorrecto,Tienda Física,Aprobado,350058.32
+868,73554,89,21,2024-11-26,1,Llegó dañado por transporte,Tienda Física,Aprobado,75958.87
+869,6942,48,23,2025-08-22,1,No cumple expectativas,Recolección Domicilio,Aprobado,118127.57
+870,25935,46,14,2024-08-19,1,No cumple expectativas,Tienda Física,Aprobado,33526.24
+871,23387,73,14,2023-08-18,1,Talla/Color incorrecto,Tienda Física,Aprobado,58772.74
+872,61887,82,4,2023-12-21,1,Talla/Color incorrecto,Tienda Física,Aprobado,156480.82
+873,75746,38,25,2024-12-02,7,Defecto de fábrica,Tienda Física,Aprobado,939467.41
+874,83252,96,20,2023-12-17,1,No cumple expectativas,Tienda Física,Aprobado,237492.57
+875,94457,26,25,2025-03-31,1,Llegó dañado por transporte,Tienda Física,Aprobado,48492.93
+876,53414,17,18,2026-01-03,2,No cumple expectativas,Punto de Entrega/Correo,Aprobado,211235.34
+877,56801,55,23,2023-01-11,1,Llegó dañado por transporte,Tienda Física,En Revisión,33283.09
+878,97240,90,16,2025-08-02,2,No cumple expectativas,Tienda Física,Aprobado,464199.14
+879,42319,89,8,2025-08-04,1,Defecto de fábrica,Tienda Física,Aprobado,188434.16
+880,70174,95,25,2025-12-11,1,Llegó dañado por transporte,Recolección Domicilio,Aprobado,117182.95
+881,70391,32,23,2023-08-05,1,Defecto de fábrica,Tienda Física,Aprobado,7445.31
+882,52330,14,13,2025-03-12,3,Talla/Color incorrecto,Recolección Domicilio,Aprobado,706035.15
+883,43089,49,25,2030-01-09,2,Defecto de fábrica,Recolección Domicilio,Aprobado,366848.74
+884,39812,91,12,2023-08-05,2,Defecto de fábrica,Recolección Domicilio,Aprobado,433388.02
+885,55480,66,5,2023-09-28,1,Talla/Color incorrecto,Tienda Física,Aprobado,128878.0
+886,85393,23,9,2025-04-19,3,Defecto de fábrica,Recolección Domicilio,Aprobado,564127.65
+887,87370,21,25,2030-01-14,1,Talla/Color incorrecto,Tienda Física,Aprobado,63470.9
+888,19964,80,18,2025-08-11,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,165536.57
+889,55124,72,23,2024-11-28,1,Defecto de fábrica,Recolección Domicilio,Aprobado,165921.85
+890,92706,55,4,2024-04-07,1,Defecto de fábrica,Tienda Física,Aprobado,36384.57
+891,73478,25,23,2025-01-15,1,Talla/Color incorrecto,Tienda Física,Aprobado,46070.53
+892,14389,24,18,2025-12-26,1,Defecto de fábrica,Tienda Física,Aprobado,50923.32
+893,5570,64,21,2025-11-12,1,No cumple expectativas,Recolección Domicilio,Aprobado,225191.89
+894,69837,73,14,2024-02-06,1,No cumple expectativas,Tienda Física,Aprobado,194690.13
+895,36587,32,13,2024-08-15,1,Llegó dañado por transporte,Tienda Física,Aprobado,31087.5
+896,12016,8,25,2023-11-06,1,No cumple expectativas,Tienda Física,Aprobado,163697.05
+897,45003,82,7,2024-03-11,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,240555.53
+898,6255,83,13,2024-08-12,2,No cumple expectativas,Recolección Domicilio,Aprobado,292747.18
+899,17145,44,8,2024-05-24,1,Defecto de fábrica,Recolección Domicilio,Aprobado,54197.5
+900,24215,19,18,2023-03-05,1,Defecto de fábrica,Recolección Domicilio,Aprobado,211704.67
+901,80720,93,18,2023-03-05,2,No cumple expectativas,Tienda Física,Aprobado,130394.34
+902,71775,4,23,2025-04-04,2,Talla/Color incorrecto,Tienda Física,Aprobado,246352.68
+903,6091,3,25,2025-03-02,2,No cumple expectativas,Recolección Domicilio,Aprobado,287383.24
+904,11638,40,11,2025-04-01,1,Llegó dañado por transporte,Tienda Física,Aprobado,115843.27
+905,22416,77,9,2025-11-18,1,Llegó dañado por transporte,Tienda Física,Aprobado,106062.72
+906,24072,85,23,2025-09-24,1,Llegó dañado por transporte,Tienda Física,Aprobado,207257.12
+907,58244,33,23,2024-03-15,1,Talla/Color incorrecto,Tienda Física,Aprobado,26569.39
+908,41241,58,7,2025-06-24,1,Defecto de fábrica,Tienda Física,Rechazado,5774.03
+909,83808,58,20,2025-02-14,10,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,185906.0
+910,33435,26,23,2023-08-28,1,Talla/Color incorrecto,Tienda Física,En Revisión,16844.49
+911,69725,65,20,2023-08-18,1,No cumple expectativas,Tienda Física,Aprobado,32079.29
+912,75698,96,21,2023-02-05,2,No cumple expectativas,Tienda Física,Aprobado,103687.12
+913,28733,96,25,2023-06-16,1,No cumple expectativas,Recolección Domicilio,Aprobado,149042.83
+914,11315,90,4,2024-01-02,4,Talla/Color incorrecto,Tienda Física,Aprobado,516716.52
+915,23955,56,20,2025-06-26,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,43974.34
+916,57109,25,23,2024-03-09,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,249995.48
+917,87045,6,8,2025-02-11,3,Defecto de fábrica,Tienda Física,Aprobado,623602.26
+918,87506,75,1,2023-04-14,1,Llegó dañado por transporte,Punto de Entrega/Correo,En Revisión,203454.46
+919,36669,83,7,2025-09-21,4,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,192284.24
+920,23062,86,8,2026-01-25,1,Defecto de fábrica,Recolección Domicilio,Aprobado,185490.54
+921,79253,80,7,2026-03-19,2,Defecto de fábrica,Recolección Domicilio,Aprobado,255604.8
+922,39750,92,13,2024-03-19,4,No cumple expectativas,Tienda Física,Aprobado,935034.56
+923,16908,54,18,2023-05-30,1,No cumple expectativas,Tienda Física,Aprobado,196946.53
+924,18778,16,25,2024-06-07,1,Defecto de fábrica,Tienda Física,Aprobado,243171.31
+925,93230,40,9,2025-11-22,1,Defecto de fábrica,Tienda Física,Aprobado,205293.62
+926,51746,8,23,2023-11-11,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,170969.18
+927,91866,99,7,2026-02-25,1,Defecto de fábrica,Tienda Física,Aprobado,48696.43
+928,81819,21,23,2025-06-17,1,No cumple expectativas,Recolección Domicilio,En Revisión,242802.23
+929,23625,20,5,2024-06-26,1,No cumple expectativas,Recolección Domicilio,Aprobado,94256.17
+930,23322,90,25,2024-04-27,1,Talla/Color incorrecto,Punto de Entrega/Correo,En Revisión,98720.6
+931,10489,96,16,2024-11-03,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,2143.49
+932,22575,48,5,2024-06-27,1,Retraso en entrega,Tienda Física,Aprobado,43196.58
+933,5241,2,2,2023-05-04,1,Talla/Color incorrecto,Tienda Física,Aprobado,136750.72
+934,43222,72,13,2024-04-16,2,No cumple expectativas,Tienda Física,Aprobado,303935.86
+935,10479,4,11,2025-06-25,1,Defecto de fábrica,Tienda Física,Aprobado,154122.47
+936,55646,24,2,2024-03-20,1,Talla/Color incorrecto,Tienda Física,Aprobado,225463.78
+937,19263,70,3,2026-03-14,1,Defecto de fábrica,Tienda Física,Aprobado,74088.92
+938,52797,97,7,2024-07-10,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,142131.24
+939,4433,17,19,2030-01-13,1,Retraso en entrega,Tienda Física,Aprobado,129666.04
+940,95258,100,17,2024-06-16,1,Talla/Color incorrecto,Tienda Física,Aprobado,72378.06
+941,64292,89,8,2024-10-26,1,Defecto de fábrica,Recolección Domicilio,Aprobado,110304.37
+942,79105,72,25,2023-01-15,1,Defecto de fábrica,Tienda Física,Aprobado,156130.37
+943,59400,98,25,2023-12-03,1,Talla/Color incorrecto,Tienda Física,Aprobado,223810.78
+944,79715,22,23,2024-02-16,1,Defecto de fábrica,Recolección Domicilio,Aprobado,163635.07
+945,50429,40,7,2024-03-02,2,Defecto de fábrica,Recolección Domicilio,En Revisión,214059.38
+946,87732,95,23,2026-02-03,2,No cumple expectativas,Recolección Domicilio,Aprobado,170584.68
+947,303,72,2,2026-03-24,1,Talla/Color incorrecto,Tienda Física,Aprobado,36172.01
+948,82559,34,25,2025-03-16,1,Defecto de fábrica,Recolección Domicilio,Aprobado,98114.67
+949,56,40,23,2023-06-02,2,Llegó dañado por transporte,Recolección Domicilio,Aprobado,183060.1
+950,8718,90,10,2025-07-07,2,Defecto de fábrica,Tienda Física,Aprobado,486965.46
+951,28700,77,2,2025-03-31,2,Retraso en entrega,Recolección Domicilio,Aprobado,425358.14
+952,73687,26,18,2023-07-26,2,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,88725.24
+953,67662,91,16,2025-01-09,1,Llegó dañado por transporte,Tienda Física,Aprobado,141576.32
+954,44248,72,16,2023-07-29,3,No cumple expectativas,Tienda Física,Aprobado,529044.75
+955,16749,28,11,2025-07-21,1,Llegó dañado por transporte,Punto de Entrega/Correo,Aprobado,122839.3
+956,4622,75,25,2023-10-13,1,Retraso en entrega,Recolección Domicilio,Aprobado,108324.1
+957,15035,62,14,2023-02-22,1,Defecto de fábrica,Tienda Física,En Revisión,129117.36
+958,5127,40,21,2025-03-13,1,Retraso en entrega,Recolección Domicilio,Aprobado,171066.18
+959,5123,49,12,2024-10-20,1,Talla/Color incorrecto,Tienda Física,Aprobado,27277.3
+960,18031,57,13,2023-02-23,1,Talla/Color incorrecto,Tienda Física,Aprobado,206344.02
+961,82839,40,14,2025-03-14,1,Defecto de fábrica,Tienda Física,Aprobado,88280.05
+962,84718,3,11,2026-02-23,1,Talla/Color incorrecto,Punto de Entrega/Correo,En Revisión,159694.8
+963,55659,5,4,2023-11-10,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,85175.83
+964,38639,16,17,2023-03-30,1,Talla/Color incorrecto,Tienda Física,Rechazado,43229.74
+965,67068,49,4,2023-07-17,2,Talla/Color incorrecto,Tienda Física,Aprobado,367913.74
+966,88870,51,7,2025-01-19,1,No cumple expectativas,Tienda Física,Aprobado,21190.3
+967,34675,75,23,2023-11-21,1,Llegó dañado por transporte,Punto de Entrega/Correo,Aprobado,36705.78
+968,35855,57,3,2025-11-10,1,Talla/Color incorrecto,Punto de Entrega/Correo,Aprobado,202156.18
+969,46272,30,7,2026-04-01,1,Defecto de fábrica,Recolección Domicilio,En Revisión,51603.73
+970,73689,3,5,2023-12-14,1,Defecto de fábrica,Recolección Domicilio,Aprobado,248426.79
+971,38519,37,9,2023-12-12,5,Defecto de fábrica,Recolección Domicilio,Aprobado,1077449.55
+972,10268,74,5,2025-06-02,1,Defecto de fábrica,Tienda Física,Aprobado,212307.85
+973,90826,64,1,2024-02-25,1,Defecto de fábrica,Tienda Física,Aprobado,235173.59
+974,1063,97,14,2023-12-28,1,Defecto de fábrica,Tienda Física,Aprobado,9123.09
+975,50449,96,6,2023-09-16,1,Retraso en entrega,Recolección Domicilio,Aprobado,159576.65
+976,95463,10,10,2023-10-14,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,219747.82
+977,6230,42,25,2023-03-10,1,Defecto de fábrica,Tienda Física,Aprobado,3650.94
+978,56794,42,11,2023-06-02,2,Talla/Color incorrecto,Punto de Entrega/Correo,Rechazado,294805.78
+979,47916,86,9,2024-01-20,2,Defecto de fábrica,Tienda Física,Aprobado,115958.14
+980,4633,90,7,2024-07-14,1,Talla/Color incorrecto,Tienda Física,Aprobado,21944.71
+981,3597,49,25,2024-04-28,1,No cumple expectativas,Recolección Domicilio,Aprobado,97982.55
+982,6169,25,23,2025-01-04,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,180586.43
+983,7562,35,18,2023-02-19,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,206718.38
+984,73795,49,9,2023-03-18,1,Producto erróneo,Tienda Física,Aprobado,190630.59
+985,82153,43,25,2024-05-21,1,Llegó dañado por transporte,Tienda Física,Aprobado,15638.07
+986,26735,9,17,2023-11-28,1,No cumple expectativas,Recolección Domicilio,En Revisión,143219.61
+987,6372,39,25,2025-04-25,2,Talla/Color incorrecto,Tienda Física,Aprobado,437236.16
+988,26070,38,6,2025-08-09,1,No cumple expectativas,Tienda Física,Aprobado,150661.54
+989,79906,96,19,2025-12-12,2,Defecto de fábrica,Recolección Domicilio,Aprobado,369766.56
+990,12911,80,12,2025-01-09,1,Talla/Color incorrecto,Tienda Física,Aprobado,80568.85
+991,73480,3,23,2024-04-15,1,Defecto de fábrica,Recolección Domicilio,Aprobado,62636.49
+992,77736,19,19,2023-02-06,1,Talla/Color incorrecto,Recolección Domicilio,En Revisión,195524.33
+993,81265,83,8,2025-10-14,4,Talla/Color incorrecto,Tienda Física,Rechazado,131462.6
+994,23276,62,23,2025-12-06,1,Defecto de fábrica,Tienda Física,En Revisión,164135.29
+995,72275,20,23,2024-12-06,2,Retraso en entrega,Recolección Domicilio,En Revisión,115363.32
+996,81450,12,25,2025-02-25,3,Llegó dañado por transporte,Recolección Domicilio,Aprobado,541890.72
+997,60005,8,25,2023-12-25,2,No cumple expectativas,Recolección Domicilio,Aprobado,202743.18
+998,62982,51,21,2024-07-06,1,Talla/Color incorrecto,Recolección Domicilio,Aprobado,11514.38
+999,84660,27,7,2025-05-27,2,Llegó dañado por transporte,Recolección Domicilio,Aprobado,218008.9
+1000,54554,45,1,2023-12-29,1,Defecto de fábrica,Punto de Entrega/Correo,Aprobado,67999.34
